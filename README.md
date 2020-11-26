@@ -29,7 +29,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Max Rect](Hard/max-rect.cpp) [![](link.png)](https://www.codingame.com/training/hard/max-rect)
 
 ## Very Hard
-
+- [x] [The Resistance](Very hard/the-resistance.cpp) [![](link.png)](https://www.codingame.com/training/expert/the-resistance)
 
 ## Contact me
 
