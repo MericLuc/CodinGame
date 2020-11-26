@@ -1,4 +1,4 @@
-# ![codingame-banner](/Puzzles/codingame_banner.png)
+# ![codingame-banner](codingame_banner.png)
 
 ## What is this place about ?
 
