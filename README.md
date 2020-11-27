@@ -32,6 +32,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Is that a possible word? Ep1](Easy/is-that-a-possible-word-ep1.cpp) [![](link.png)](https://www.codingame.com/training/easy/is-that-a-possible-word-ep1)
 - [x] [Logically reasonable inequalities](Easy/logically-reasonable-inequalities.cpp) [![](link.png)](https://www.codingame.com/training/easy/logically-reasonable-inequalities)
 - [x] [Murder in the village](Easy/murder-in-the-village.py) [![](link.png)](https://www.codingame.com/training/easy/murder-in-the-village)
+- [x] [Number derivation](Easy/number-derivation.py) [![](link.png)](https://www.codingame.com/training/easy/number-derivation)
 - [x] [Power of Thor (ep.1)](Easy/power-of-thor-1.js) [![](link.png)](https://www.codingame.com/training/easy/power-of-thor-episode-1)
 - [x] [Prefix code](Easy/prefix-code.cpp) [![](link.png)](https://www.codingame.com/training/easy/prefix-code)
 - [x] [Reverse fizzbuzz](Easy/reverse-fizzbuzz.rb) [![](link.png)](https://www.codingame.com/training/easy/reverse-fizzbuzz)
