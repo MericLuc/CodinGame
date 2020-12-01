@@ -1,0 +1,1 @@
+while True: print("0 3\n0 4")
