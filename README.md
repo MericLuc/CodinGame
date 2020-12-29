@@ -75,6 +75,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [MIME type](Easy/mime-type.py) [![](link.png)](https://www.codingame.com/training/easy/mime-type)
 - [x] [Monday tuesday happy days](Easy/monday-tuesday-happy-days.py) [![](link.png)](https://www.codingame.com/training/easy/monday-tuesday-happy-days)
 - [x] [Morellet's random lines](Easy/morellets-random-lines.js) [![](link.png)](https://www.codingame.com/training/easy/morellets-random-lines)
+- [x] [Mountain map](Easy/mountain-map.py) [![](link.png)](https://www.codingame.com/training/easy/mountain-map)
 - [x] [Murder in the village](Easy/murder-in-the-village.py) [![](link.png)](https://www.codingame.com/training/easy/murder-in-the-village)
 - [x] [Nature of quadrilaterals](Easy/nature-of-quadrilaterals.c) [![](link.png)](https://www.codingame.com/training/easy/nature-of-quadrilaterals)
 - [x] [Next growing number](Easy/next-growing-number.cpp) [![](link.png)](https://www.codingame.com/training/easy/next-growing-number)
