@@ -77,6 +77,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Morellet's random lines](Easy/morellets-random-lines.js) [![](link.png)](https://www.codingame.com/training/easy/morellets-random-lines)
 - [x] [Murder in the village](Easy/murder-in-the-village.py) [![](link.png)](https://www.codingame.com/training/easy/murder-in-the-village)
 - [x] [Nature of quadrilaterals](Easy/nature-of-quadrilaterals.c) [![](link.png)](https://www.codingame.com/training/easy/nature-of-quadrilaterals)
+- [x] [Next growing number](Easy/next-growing-number.cpp) [![](link.png)](https://www.codingame.com/training/easy/next-growing-number)
 - [x] [Number derivation](Easy/number-derivation.py) [![](link.png)](https://www.codingame.com/training/easy/number-derivation)
 - [x] [Onboarding](Easy/onboarding.cpp) [![](link.png)](https://www.codingame.com/training/easy/onboarding)
 - [x] [Order of succession](Easy/order-of-succession.py) [![](link.png)](https://www.codingame.com/training/easy/order-of-succession)
