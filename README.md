@@ -59,6 +59,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Graffiti on the fence](Easy/graffiti-on-the-fence.cpp) [![](link.png)](https://www.codingame.com/training/easy/graffiti-on-the-fence)
 - [x] [Happy numbers](Easy/happy-numbers.cpp) [![](link.png)](https://www.codingame.com/training/easy/happy-numbers)
 - [x] [Hello, world!](Easy/hello-world.php) [![](link.png)](https://www.codingame.com/training/easy/hello-world)
+- [x] [Hidden messages in images](Easy/hidden-messages-in-images.cpp) [![](link.png)](https://www.codingame.com/training/easy/hidden-messages-in-images)
 - [x] [Hooch clash](Easy/hooch-clash.sh) [![](link.png)](https://www.codingame.com/training/easy/hooch-clash)
 - [x] [Horse-racing hyperduals](Easy/horse-racing-hyperduals.c) [![](link.png)](https://www.codingame.com/training/easy/horse-racing-hyperduals)
 - [x] [Horse-racing duals](Easy/horse-racing-duals.cpp) [![](link.png)](https://www.codingame.com/training/easy/horse-racing-duals)
