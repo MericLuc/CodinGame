@@ -187,6 +187,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Rearrange string to two numbers](Medium/rearrange-strings-to-two-numbers.cpp) [![](link.png)](https://www.codingame.com/training/medium/rearrange-string-to-two-numbers)
 - [x] [Reversed look and say](Medium/reversed-look-and-say.cpp) [![](link.png)](https://www.codingame.com/training/medium/reversed-look-and-say)
 - [x] [Robbery optimisation](Medium/robbery-optimisation.cpp) [![](link.png)](https://www.codingame.com/training/medium/robbery-optimisation)
+- [x] [Rod cutting problem](Medium/rod-cutting-problem.cpp) [![](link.png)](https://www.codingame.com/training/medium/rod-cutting-problem)
 - [x] [Sandpile addition](Medium/sandpile-addition.c) [![](link.png)](https://www.codingame.com/training/medium/sandpile-addition)
 - [x] [Scrabble](Medium/scrabble.cpp) [![](link.png)](https://www.codingame.com/training/medium/scrabble)
 - [x] [Seam carving](Medium/seam-carving.cpp) [![](link.png)](https://www.codingame.com/training/medium/seam-carving)
