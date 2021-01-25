@@ -172,6 +172,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Mayan calculation](Medium/mayan-calculation.c) [![](link.png)](https://www.codingame.com/training/medium/mayan-calculation)
 - [x] [Maze](Medium/maze.c) [![](link.png)](https://www.codingame.com/training/medium/maze)
 - [x] [Micro assembly](Medium/micro-assembly.c) [![](link.png)](https://www.codingame.com/training/medium/micro-assembly)
+- [x] [MineSweeper](Medium/minesweeper.cpp) [![](link.png)](https://www.codingame.com/training/medium/minesweeper)
 - [x] [Minimax exercise](Medium/minimax-exercise.c) [![](link.png)](https://www.codingame.com/training/medium/minimax-exercise)
 - [x] [Monthly system](Medium/monthly-system.c) [![](link.png)](https://www.codingame.com/training/medium/monthly-system)
 - [x] [Network cabling](Medium/network-cabling.cpp) [![](link.png)](https://www.codingame.com/training/medium/network-cabling)
