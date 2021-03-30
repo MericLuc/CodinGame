@@ -21,6 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 
 ## Easy
 
+- [x] [1000000000D World](Easy/1000000000d-world.cpp) [![](link.png)](https://www.codingame.com/training/easy/1000000000d-world)
 - [x] [1D bush fire](Easy/1d-bush-fire.c) [![](link.png)](https://www.codingame.com/training/easy/1d-bush-fire)
 - [x] [1D spreadsheet](Easy/1d-spreadsheet.cpp) [![](link.png)](https://www.codingame.com/training/easy/1d-spreadsheet)
 - [x] [1x1x1 Rubik's cube movements](Easy/111-rubiks-cube-movements.js) [![](link.png)](https://www.codingame.com/training/easy/111-rubiks-cube-movements)
