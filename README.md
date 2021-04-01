@@ -31,6 +31,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Add'em up](Easy/addem-up.py) [![](link.png)](https://www.codingame.com/training/easy/addem-up)
 - [x] [Are the clumps normal](Easy/are-the-clumps-normal.cpp) [![](link.png)](https://www.codingame.com/training/easy/are-the-clumps-normal)
 - [x] [ASCII art](Easy/ascii-art.cpp) [![](link.png)](https://www.codingame.com/training/easy/ascii-art)
+- [x] [Asteroids](Easy/asteroids.cpp) [![](link.png)](https://www.codingame.com/training/easy/asteroids)
 - [x] [Auto pickup](Easy/auto-pickup.cpp) [![](link.png)](https://www.codingame.com/training/easy/auto-pickup)
 - [x] [Balanced ternary computer encode](Easy/balanced-ternary-computer-encode.c) [![](link.png)](https://www.codingame.com/training/easy/balanced-ternary-computer-encode)
 - [x] [Bank robbers](Easy/bank-robbers.js) [![](link.png)](https://www.codingame.com/training/easy/bank-robbers)
