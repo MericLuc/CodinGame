@@ -136,6 +136,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Brackets, extended edition](Medium/brackets-extended-edition.c) [![](link.png)](https://www.codingame.com/training/medium/brackets-extended-edition)
 - [x] [Brackets, ultimate edition](Medium/brackets-ultimate-edition.js) [![](link.png)](https://www.codingame.com/training/medium/brackets-ultimate-edition)
 - [x] [Bruce lee](Medium/bruce-lee.js) [![](link.png)](https://www.codingame.com/training/medium/bruce-lee)
+- [x] [Bulls and Cows](Medium/bulls-and-cows.c) [![](link.png)](https://www.codingame.com/training/medium/bulls-and-cows)
 - [x] [Bust speeding vehicles](Medium/bust-speeding-vehicles.c) [![](link.png)](https://www.codingame.com/training/medium/bust-speeding-vehicles)
 - [x] [Cards castle](Medium/cards-castle.c) [![](link.png)](https://www.codingame.com/training/medium/cards-castle)
 - [x] [Carmichael numbers](Medium/carmichael-numbers.c) [![](link.png)](https://www.codingame.com/training/medium/carmichael-numbers)
