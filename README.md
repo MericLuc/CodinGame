@@ -44,6 +44,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Count as I count](Easy/count-as-i-count.cpp) [![](link.png)](https://www.codingame.com/training/easy/count-as-i-count)
 - [x] [Create the longest sequence of 1s](Easy/create-the-longest-sequence-of-1s.c) [![](link.png)](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s)
 - [x] [Credit card verifier](Easy/credit-card-verifier-luhns-algorithm.cpp) [![](link.png)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm)
+- [x] [Custom game of life](Easy/custom-game-of-life.cpp) [![](link.png)](https://www.codingame.com/ide/puzzle/custom-game-of-life)
 - [x] [Darts](Easy/darts.cpp) [![](link.png)](https://www.codingame.com/training/easy/darts)
 - [x] [Dead mens shot](Easy/dead-mens-shot.c) [![](link.png)](https://www.codingame.com/training/easy/dead-mens-shot)
 - [x] [Decode the message](Easy/decode-the-message.cpp) [![](link.png)](https://www.codingame.com/training/easy/decode-the-message)
