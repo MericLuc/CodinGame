@@ -78,6 +78,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Mars lander episode 1](Easy/mars-lander-episode-1.py) [![](link.png)](https://www.codingame.com/training/easy/mars-lander-episode-1)
 - [x] [May the triforce be with you](Easy/may-the-triforce-be-with-you.c) [![](link.png)](https://www.codingame.com/training/easy/may-the-triforce-be-with-you)
 - [x] [MIME type](Easy/mime-type.py) [![](link.png)](https://www.codingame.com/training/easy/mime-type)
+- [x] [Reverse Minesweeper](Easy/reverse-minesweeper.cpp) [![](link.png)](https://www.codingame.com/training/easy/reverse-minesweeper)
 - [x] [Monday tuesday happy days](Easy/monday-tuesday-happy-days.py) [![](link.png)](https://www.codingame.com/training/easy/monday-tuesday-happy-days)
 - [x] [Morellet's random lines](Easy/morellets-random-lines.js) [![](link.png)](https://www.codingame.com/training/easy/morellets-random-lines)
 - [x] [Mountain map](Easy/mountain-map.py) [![](link.png)](https://www.codingame.com/training/easy/mountain-map)
