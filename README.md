@@ -88,6 +88,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Next growing number](Easy/next-growing-number.cpp) [![](link.png)](https://www.codingame.com/training/easy/next-growing-number)
 - [x] [Number derivation](Easy/number-derivation.py) [![](link.png)](https://www.codingame.com/training/easy/number-derivation)
 - [x] [Object insertion](Easy/object-insertion.cpp) [![](link.png)](https://www.codingame.com/training/easy/object-insertion)
+- [x] [Offset arrays](Easy/offset-arrays.py) [![](link.png)](https://www.codingame.com/ide/puzzle/offset-arrays)
 - [x] [Onboarding](Easy/onboarding.cpp) [![](link.png)](https://www.codingame.com/training/easy/onboarding)
 - [x] [Order of succession](Easy/order-of-succession.py) [![](link.png)](https://www.codingame.com/training/easy/order-of-succession)
 - [x] [Organic compounds](Easy/organic-compounds.java) [![](link.png)](https://www.codingame.com/training/easy/organic-compounds)
