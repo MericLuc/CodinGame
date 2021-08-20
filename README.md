@@ -10,7 +10,7 @@ It includes
     
 * [**code golf**](https://www.codingame.com/multiplayer/codegolf) - **_Solve puzzles_** with the shortest possible source code !
     
-* [**bot fights**](https://www.codingame.com/multiplayer/bot-programming) - **_Compete_** in multiplayers programming contests involing artificial intelligence !
+* [**bot fights**](https://www.codingame.com/multiplayer/bot-programming) - **_Compete_** in multiplayers programming contests involving artificial intelligence !
     
 * [**tutorials**](https://www.codingame.com/learn) - **_Learn_** :book: all the concepts you need in order to get the best of fun on CG.
     
@@ -114,6 +114,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [The descent](Easy/the-descent.js) [![](link.png)](https://www.codingame.com/training/easy/the-descent)
 - [x] [The electrician apprentice](Easy/the-electrician-apprentice.cs) [![](link.png)](https://www.codingame.com/training/easy/the-electrician-apprentice)
 - [x] [The lost child episode-1](Easy/the-lost-child-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-lost-child-episode-1)
+- [x] [The Michelangelo code](Easy/the-michelangelo-code.py) [![](link.png)](https://www.codingame.com/training/easy/the-michelangelo-code)
 - [x] [The River I.](Easy/the-river-i.c) [![](link.png)](https://www.codingame.com/training/easy/the-river-i-)
 - [x] [The River II.](Easy/the-river-ii.c) [![](link.png)](https://www.codingame.com/training/easy/the-river-ii-)
 - [x] [The travelling salesman problem](Easy/the-travelling-salesman-problem.c) [![](link.png)](https://www.codingame.com/training/easy/the-travelling-salesman-problem)
