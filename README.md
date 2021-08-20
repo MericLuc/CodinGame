@@ -161,6 +161,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Dynamic sorting](Medium/dynamic-sorting.cs) [![](link.png)](https://www.codingame.com/training/medium/dynamic-sorting)
 - [x] [Dwarfs standing on the shoulders of giants](Medium/dwarfs-standing-on-the-shoulders-of-giants.cpp) [![](link.png)](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)
 - [x] [Elementary cellular automaton](Medium/elementary-cellular-automaton.c) [![](link.png)](https://www.codingame.com/training/medium/elementary-cellular-automaton)
+- [x] [Equalizing arrays](Medium/equalizing-arrays.cpp) [![](link.png)](https://www.codingame.com/training/medium/equalizing-arrays)
 - [x] [Factorial vs exponential](Medium/factorial-vs-exponential.c) [![](link.png)](https://www.codingame.com/training/medium/factorial-vs-exponential)
 - [x] [Fair numbering](Medium/fair-numbering.cpp) [![](link.png)](https://www.codingame.com/training/medium/fair-numbering)
 - [x] [Find the replacement](Medium/find-the-replacement.cpp) [![](link.png)](https://www.codingame.com/training/medium/find-the-replacement)
