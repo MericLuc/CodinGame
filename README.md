@@ -250,7 +250,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
  
  You _found a bug_ :bug: or a _better way_ to solve one puzzle ?
  
- Then please let me know at _luc-henri.meric@up-technologies.fr_ :smile:
+ Then please let me know at _lhmeric@osmozis.com_ :smile:
  
  Or maybe you just wanna play ? :smiley: Then here is my [**_profile_**](https://www.codingame.com/profile/36481b0e11f9a85fe9f5229dde04b17c0913923) !
  
