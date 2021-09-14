@@ -141,6 +141,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Bag of balls](Medium/bag-of-balls.cpp) [![](link.png)](https://www.codingame.com/training/medium/bag-of-balls)
 - [x] [Bender - episode 1](Medium/bender-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/medium/bender-episode-1)
 - [x] [Binary search tree traversal](Medium/binary-search-tree-traversal.cpp) [![](link.png)](https://www.codingame.com/training/medium/binary-search-tree-traversal)
+- [x] [Binary sequence](Medium/binary-sequence.py) [![](link.png)](https://www.codingame.com/training/medium/binary-sequence)
 - [x] [Bingo](Medium/bingo.java) [![](link.png)](https://www.codingame.com/training/medium/bingo)
 - [x] [Bit count to limit](Medium/bit-count-to-limit.cpp) [![](link.png)](https://www.codingame.com/training/medium/bit-count-to-limit)
 - [x] [Box of cigars](Medium/box-of-cigars.c) [![](link.png)](https://www.codingame.com/training/medium/box-of-cigars)
