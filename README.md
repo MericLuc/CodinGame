@@ -207,6 +207,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Queneau numbers](Medium/queneau-numbers.cljs) [![](link.png)](https://www.codingame.com/training/medium/queneau-numbers)
 - [x] [Rational number tree](Medium/rational-number-tree.cpp) [![](link.png)](https://www.codingame.com/training/medium/rational-number-tree)
 - [x] [Rearrange string to two numbers](Medium/rearrange-strings-to-two-numbers.cpp) [![](link.png)](https://www.codingame.com/training/medium/rearrange-string-to-two-numbers)
+- [x] [Remaining card](Medium/remaining-card.cpp) [![](link.png)](https://www.codingame.com/training/medium/remaining-card)
 - [x] [Reverse Polish notation](Medium/reverse-polish-notation.py) [![](link.png)](https://www.codingame.com/training/medium/reverse-polish-notation)
 - [x] [Reversed look and say](Medium/reversed-look-and-say.cpp) [![](link.png)](https://www.codingame.com/training/medium/reversed-look-and-say)
 - [x] [Robbery optimisation](Medium/robbery-optimisation.cpp) [![](link.png)](https://www.codingame.com/training/medium/robbery-optimisation)
