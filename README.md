@@ -243,6 +243,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [What the brainfuck!](Medium/what-the-brainfuck.cpp) [![](link.png)](https://www.codingame.com/training/medium/what-the-brainfuck)
 
 ## Hard
+- [x] [Max Rect](Hard/doubly-solved-rubiks-cube.py) [![](link.png)](https://www.codingame.com/training/hard/doubly-solved-rubiks-cube)
 - [x] [Max Rect](Hard/max-rect.cpp) [![](link.png)](https://www.codingame.com/training/hard/max-rect)
 
 ## Very Hard
