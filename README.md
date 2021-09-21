@@ -189,6 +189,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Kaprekar's routine](Medium/kaprekars-routine.js) [![](link.png)](https://www.codingame.com/training/medium/kaprekars-routine)
 - [x] [Knight's jam](Medium/knights-jam.cpp) [![](link.png)](https://www.codingame.com/training/medium/knights-jam)
 - [x] [Langton's ant](Medium/langtons-ant.c) [![](link.png)](https://www.codingame.com/training/medium/langtons-ant)
+- [x] [Length of Syracuse conjecture sequence](Medium/length-of-syracuse-conjecture-sequence.cpp) [![](link.png)](https://www.codingame.com/training/medium/length-of-syracuse-conjecture-sequence)
 - [x] [Locked in gear](Medium/locked-in-gear.cpp) [![](link.png)](https://www.codingame.com/training/medium/locked-in-gear)
 - [x] [Magic square](Medium/magic-square.cpp) [![](link.png)](https://www.codingame.com/training/medium/magic-square)
 - [x] [Mars lander Ep2](Medium/mars-lander-ep2.cpp) [![](link.png)](https://www.codingame.com/training/medium/mars-lander-episode-2)
