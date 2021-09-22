@@ -112,6 +112,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Stall tilt](Easy/stall-tilt.py) [![](link.png)](https://www.codingame.com/training/easy/stall-tilt)
 - [x] [Substitution encoding](Easy/substitution-encoding.cpp) [![](link.png)](https://www.codingame.com/training/easy/substitution-encoding)
 - [x] [Sudoku Validator](Easy/sudoku-validator.py) [![](link.png)](https://www.codingame.com/training/easy/sudoku-validator)
+- [x] [Sum of Spiral's Diagonals](Easy/sum-of-spirals-diagonals.cpp) [![](link.png)](https://www.codingame.com/training/easy/sum-of-spirals-diagonals)
 - [x] [Temperatures](Easy/temperatures.js) [![](link.png)](https://www.codingame.com/training/easy/temperatures)
 - [x] [Text formatting](Easy/text-formatting.py) [![](link.png)](https://www.codingame.com/training/easy/text-formatting)
 - [x] [The dart 101](Easy/the-dart-101.c) [![](link.png)](https://www.codingame.com/training/easy/the-dart-101)
