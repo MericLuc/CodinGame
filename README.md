@@ -212,6 +212,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Parity scanner](Medium/parity-scanner.py) [![](link.png)](https://www.codingame.com/training/medium/parity-scanner)
 - [x] [Photo booth transformation](Medium/photo-booth-transformation.c) [![](link.png)](https://www.codingame.com/training/medium/photo-booth-transformation)
 - [x] [Plague Jr](Medium/plague-jr.py) [![](link.png)](https://www.codingame.com/training/medium/plague-jr)
+- [x] [Playfair cypher](Medium/playfair-cipher.py) [![](link.png)](https://www.codingame.com/training/medium/playfair-cipher)
 - [x] [Porcupine fever](Medium/porcupine-fever.c) [![](link.png)](https://www.codingame.com/training/medium/porcupine-fever)
 - [x] [Propositions in freges ideography](Medium/propositions-in-freges-ideography.py) [![](link.png)](https://www.codingame.com/training/medium/propositions-in-freges-ideography)
 - [x] [Queneau numbers](Medium/queneau-numbers.cljs) [![](link.png)](https://www.codingame.com/training/medium/queneau-numbers)
