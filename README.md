@@ -178,6 +178,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Fair numbering](Medium/fair-numbering.cpp) [![](link.png)](https://www.codingame.com/training/medium/fair-numbering)
 - [x] [Find the replacement](Medium/find-the-replacement.cpp) [![](link.png)](https://www.codingame.com/training/medium/find-the-replacement)
 - [x] [Flood fill example](Medium/flood-fill-example.cpp) [![](link.png)](https://www.codingame.com/training/medium/flood-fill-example)
+- [x] [Folding a note](Medium/folding-a-note.py) [![](link.png)](https://www.codingame.com/training/medium/folding-a-note)
 - [x] [Folding paper](Medium/folding-paper.cpp) [![](link.png)](https://www.codingame.com/training/medium/folding-paper)
 - [x] [Forest fire](Medium/forest-fire.cpp) [![](link.png)](https://www.codingame.com/training/medium/forest-fire)
 - [x] [Game of life](Medium/game-of-life.c) [![](link.png)](https://www.codingame.com/training/medium/game-of-life)
