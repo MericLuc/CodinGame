@@ -158,6 +158,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Bulgarian solitaire](Medium/bulgarian-solitaire.cpp) [![](link.png)](https://www.codingame.com/training/medium/bulgarian-solitaire)
 - [x] [Bulls and Cows](Medium/bulls-and-cows.c) [![](link.png)](https://www.codingame.com/training/medium/bulls-and-cows)
 - [x] [Bust speeding vehicles](Medium/bust-speeding-vehicles.c) [![](link.png)](https://www.codingame.com/training/medium/bust-speeding-vehicles)
+- [x] [Byte pair encoding](Medium/byte-pair-encoding.py) [![](link.png)](https://www.codingame.com/training/medium/byte-pair-encoding)
 - [x] [Cards castle](Medium/cards-castle.c) [![](link.png)](https://www.codingame.com/training/medium/cards-castle)
 - [x] [Carmichael numbers](Medium/carmichael-numbers.c) [![](link.png)](https://www.codingame.com/training/medium/carmichael-numbers)
 - [x] [CGFunge interpreter](Medium/cgfunge-interpreter.py) [![](link.png)](https://www.codingame.com/training/medium/cgfunge-interpreter)
