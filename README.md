@@ -193,6 +193,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Huffman code](Medium/huffman-code.cpp) [![](link.png)](https://www.codingame.com/training/medium/huffman-code)
 - [x] [Inversion count](Medium/inversion-count.cs) [![](link.png)](https://www.codingame.com/training/medium/inversion-count)
 - [x] [IP mask calculating](Medium/ip-mask-calculating.cpp) [![](link.png)](https://www.codingame.com/training/medium/ip-mask-calculating)
+- [x] [Jumping frogs](Medium/jumping-frogs.cpp) [![](link.png)](https://www.codingame.com/training/medium/jumping-frogs)
 - [x] [Kaprekar's routine](Medium/kaprekars-routine.js) [![](link.png)](https://www.codingame.com/training/medium/kaprekars-routine)
 - [x] [Knight's jam](Medium/knights-jam.cpp) [![](link.png)](https://www.codingame.com/training/medium/knights-jam)
 - [x] [Langton's ant](Medium/langtons-ant.c) [![](link.png)](https://www.codingame.com/training/medium/langtons-ant)
