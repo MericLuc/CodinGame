@@ -112,6 +112,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Shadow casting](Easy/shadow-casting.cpp) [![](link.png)](https://www.codingame.com/training/easy/shadow-casting)
 - [x] [Simple awalé](Easy/simple-awale.js) [![](link.png)](https://www.codingame.com/training/easy/simple-awale)
 - [x] [Smooth!](Easy/smooth.sh) [![](link.png)](https://www.codingame.com/training/easy/smooth)
+- [x] [Someone's acting sus...](Easy/someones-acting-sus----.py) [![](link.png)](https://www.codingame.com/training/easy/someones-acting-sus----)
 - [x] [Stall tilt](Easy/stall-tilt.py) [![](link.png)](https://www.codingame.com/training/easy/stall-tilt)
 - [x] [Substitution encoding](Easy/substitution-encoding.cpp) [![](link.png)](https://www.codingame.com/training/easy/substitution-encoding)
 - [x] [Sudoku Validator](Easy/sudoku-validator.py) [![](link.png)](https://www.codingame.com/training/easy/sudoku-validator)
