@@ -138,6 +138,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Unit fractions](Easy/unit-fractions.c) [![](link.png)](https://www.codingame.com/training/easy/unit-fractions)
 - [x] [Van Eck's sequence](Easy/van-eck.cpp) [![](link.png)](https://www.codingame.com/training/easy/van-ecks-sequence)
 - [x] [What's so complex about Mandelbrot?](Easy/whats-so-complex-about-mandelbrot.c) [![](link.png)](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot)
+- [x] [Where's Wally](Easy/wheres-wally.cpp) [![](link.png)](https://www.codingame.com/training/easy/wheres-wally)
 - [x] [XML MDF-2016](Easy/xml-mdf-2016.cpp) [![](link.png)](https://www.codingame.com/training/easy/xml-mdf-2016)
 - [x] [Zhiwei sun squares](Easy/zhiwei-sun-squares.cpp) [![](link.png)](https://www.codingame.com/training/easy/zhiwei-sun-squares)
 
