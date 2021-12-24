@@ -178,6 +178,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Divide the factorial](Medium/divide-the-factorial.rb) [![](link.png)](https://www.codingame.com/training/medium/divide-the-factorial)
 - [x] [Dominoes path](Medium/dominoes-path.cpp) [![](link.png)](https://www.codingame.com/training/medium/dominoes-path)
 - [x] [Don't Panic - Episode 1](Medium/don't-panic-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/medium/don't-panic-episode-1)
+- [x] [Drug interactions](Medium/drug-interactions.cpp) [![](link.png)](https://www.codingame.com/training/medium/drug-interactions)
 - [x] [Dynamic sorting](Medium/dynamic-sorting.cs) [![](link.png)](https://www.codingame.com/training/medium/dynamic-sorting)
 - [x] [Dwarfs standing on the shoulders of giants](Medium/dwarfs-standing-on-the-shoulders-of-giants.cpp) [![](link.png)](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)
 - [x] [Elementary cellular automaton](Medium/elementary-cellular-automaton.c) [![](link.png)](https://www.codingame.com/training/medium/elementary-cellular-automaton)
