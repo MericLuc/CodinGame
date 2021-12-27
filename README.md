@@ -27,6 +27,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [1D spreadsheet](Easy/1d-spreadsheet.cpp) [![](link.png)](https://www.codingame.com/training/easy/1d-spreadsheet)
 - [x] [1x1x1 Rubik's cube movements](Easy/111-rubiks-cube-movements.js) [![](link.png)](https://www.codingame.com/training/easy/111-rubiks-cube-movements)
 - [x] [7-Segement scanner](Easy/7-segment-scanner.cpp) [![](link.png)](https://www.codingame.com/training/easy/7-segment-scanner)
+- [x] [A Bunny and Carrots](Easy/a-bunny-and-carrots.cpp) [![](link.png)](https://www.codingame.com/training/easy/a-bunny-and-carrots)
 - [x] [A child's play](Easy/a-childs-play.c) [![](link.png)](https://www.codingame.com/training/easy/a-childs-play)
 - [x] [A mountain of a mole hill](Easy/a-mountain-of-a-mole-hill.py) [![](link.png)](https://www.codingame.com/training/easy/a-mountain-of-a-mole-hill)
 - [x] [Add'em up](Easy/addem-up.py) [![](link.png)](https://www.codingame.com/training/easy/addem-up)
