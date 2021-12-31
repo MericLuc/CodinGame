@@ -260,6 +260,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Trits balanced ternary computing](Medium/trits-balanced-ternary-computing.c) [![](link.png)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing)
 - [x] [Vote counting](Medium/vote-counting.cpp) [![](link.png)](https://www.codingame.com/training/medium/vote-counting)
 - [x] [Ways to make change](Medium/ways-to-make-change.cpp) [![](link.png)](https://www.codingame.com/training/medium/ways-to-make-change)
+- [x] [We're going in circles!](Medium/were-going-in-circles.cpp) [![](link.png)](https://www.codingame.com/training/medium/were-going-in-circles)
 - [x] [Winamax battle](Medium/winamax-battle.cpp) [![](link.png)](https://www.codingame.com/training/medium/winamax-battle)
 - [x] [What the brainfuck!](Medium/what-the-brainfuck.cpp) [![](link.png)](https://www.codingame.com/training/medium/what-the-brainfuck)
 
