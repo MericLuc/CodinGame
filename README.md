@@ -105,6 +105,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Pirates treasure](Easy/pirates-treasure.c) [![](link.png)](https://www.codingame.com/training/easy/pirates-treasure)
 - [x] [Power of Thor (ep.1)](Easy/power-of-thor-1.js) [![](link.png)](https://www.codingame.com/training/easy/power-of-thor-episode-1)
 - [x] [Prefix code](Easy/prefix-code.cpp) [![](link.png)](https://www.codingame.com/training/easy/prefix-code)
+- [x] [Random walk](Easy/random-walk.cpp) [![](link.png)](https://www.codingame.com/training/easy/random-walk)
 - [x] [Rectangle partition](Easy/rectangle-partition.cpp) [![](link.png)](https://www.codingame.com/training/easy/rectangle-partition)
 - [x] [Rectangular block spinner](Easy/rectangular-block-spinner.py) [![](link.png)](https://www.codingame.com/training/easy/rectangular-block-spinner)
 - [x] [Reverse fizzbuzz](Easy/reverse-fizzbuzz.rb) [![](link.png)](https://www.codingame.com/training/easy/reverse-fizzbuzz)
