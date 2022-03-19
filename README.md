@@ -65,6 +65,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Encryption decryption of enigma machine](Easy/encryptiondecryption-of-enigma-machine.c) [![](link.png)](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine)
 - [x] [Equivalent resistance circuit building](Easy/equivalent-resistance-circuit-building.java) [![](link.png)](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building)
 - [x] [Extended Hamming codes](Easy/extended-hamming-codes.py) [![](link.png)](https://www.codingame.com/training/easy/extended-hamming-codes)
+- [x] [Faro shuffle](Easy/faro-shuffle.cpp) [![](link.png)](https://www.codingame.com/training/easy/faro-shuffle)
 - [x] [Fax machine](Easy/fax-machine.cpp) [![](link.png)](https://www.codingame.com/training/easy/fax-machine)
 - [x] [Feature extraction](Easy/feature-extraction.cpp) [![](link.png)](https://www.codingame.com/training/easy/feature-extraction)
 - [x] [Flip the sign](Easy/flip-the-sign.cpp) [![](link.png)](https://www.codingame.com/training/easy/flip-the-sign)
