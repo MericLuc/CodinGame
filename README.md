@@ -68,6 +68,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Fax machine](Easy/fax-machine.cpp) [![](link.png)](https://www.codingame.com/training/easy/fax-machine)
 - [x] [Feature extraction](Easy/feature-extraction.cpp) [![](link.png)](https://www.codingame.com/training/easy/feature-extraction)
 - [x] [Flip the sign](Easy/flip-the-sign.cpp) [![](link.png)](https://www.codingame.com/training/easy/flip-the-sign)
+- [x] [Frame the picture](Easy/frame-the-picture.cpp) [![](link.png)](https://www.codingame.com/training/easy/frame-the-picture)
 - [x] [Ghost legs](Easy/ghost-legs.c) [![](link.png)](https://www.codingame.com/training/easy/ghost-legs)
 - [x] [Graffiti on the fence](Easy/graffiti-on-the-fence.cpp) [![](link.png)](https://www.codingame.com/training/easy/graffiti-on-the-fence)
 - [x] [Happy numbers](Easy/happy-numbers.cpp) [![](link.png)](https://www.codingame.com/training/easy/happy-numbers)
