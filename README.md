@@ -141,6 +141,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Tic tac toe](Easy/tictactoe.py) [![](link.png)](https://www.codingame.com/training/easy/tictactoe)
 - [x] [Treasure hunt](Easy/treasure-hunt.cpp) [![](link.png)](https://www.codingame.com/training/easy/treasure-hunt)
 - [x] [Tree paths](Easy/tree-paths.rb) [![](link.png)](https://www.codingame.com/training/easy/tree-paths)
+- [x] [Tricky number verifier](Easy/tricky-number-verifier.py) [![](link.png)](https://www.codingame.com/training/easy/tricky-number-verifier)
 - [x] [Unique prefixes](Easy/unique-prefixes.cpp) [![](link.png)](https://www.codingame.com/training/easy/unique-prefixes)
 - [x] [Unit fractions](Easy/unit-fractions.c) [![](link.png)](https://www.codingame.com/training/easy/unit-fractions)
 - [x] [Van Eck's sequence](Easy/van-eck.cpp) [![](link.png)](https://www.codingame.com/training/easy/van-ecks-sequence)
