@@ -31,6 +31,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [A child's play](Easy/a-childs-play.c) [![](link.png)](https://www.codingame.com/training/easy/a-childs-play)
 - [x] [A mountain of a mole hill](Easy/a-mountain-of-a-mole-hill.py) [![](link.png)](https://www.codingame.com/training/easy/a-mountain-of-a-mole-hill)
 - [x] [Add'em up](Easy/addem-up.py) [![](link.png)](https://www.codingame.com/training/easy/addem-up)
+- [x] [Annihilation](Easy/annihilation.cpp) [![](link.png)](https://www.codingame.com/training/easy/annihilation)
 - [x] [Are the clumps normal](Easy/are-the-clumps-normal.cpp) [![](link.png)](https://www.codingame.com/training/easy/are-the-clumps-normal)
 - [x] [ASCII art](Easy/ascii-art.cpp) [![](link.png)](https://www.codingame.com/training/easy/ascii-art)
 - [x] [Asteroids](Easy/asteroids.cpp) [![](link.png)](https://www.codingame.com/training/easy/asteroids)
