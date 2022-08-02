@@ -85,6 +85,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Is that a possible word? Ep1](Easy/is-that-a-possible-word-ep1.cpp) [![](link.png)](https://www.codingame.com/training/easy/is-that-a-possible-word-ep1)
 - [x] [ISBN check digit](Easy/isbn-check-digit.c) [![](link.png)](https://www.codingame.com/training/easy/isbn-check-digit)
 - [x] [Jack Silver: The Casino](Easy/jack-silver-the-casino.c) [![](link.png)](https://www.codingame.com/training/easy/jack-silver-the-casino)
+- [x] [Logic gates](Easy/logic-gates.cpp) [![](link.png)](https://www.codingame.com/training/easy/logic-gates)
 - [x] [Logically reasonable inequalities](Easy/logically-reasonable-inequalities.cpp) [![](link.png)](https://www.codingame.com/training/easy/logically-reasonable-inequalities)
 - [x] [Low Resolution: what's the shape?](Easy/low-resolution-whats-the-shape.cpp) [![](link.png)](https://www.codingame.com/training/easy/low-resolution-whats-the-shape)
 - [x] [Lumen](Easy/lumen.c) [![](link.png)](https://www.codingame.com/training/easy/lumen)
