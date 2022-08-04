@@ -21,6 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 
 ## Easy
 
+- [x] [10 Pin bowling scores](Easy/10-pin-bowling-scores.cs) [![](link.png)](https://www.codingame.com/training/easy/10-pin-bowling-scores)
 - [x] [1000000000D World](Easy/1000000000d-world.cpp) [![](link.png)](https://www.codingame.com/training/easy/1000000000d-world)
 - [x] [1. NGR - Basic Radar](Easy/1--ngr---basic-radar.cpp) [![](link.png)](https://www.codingame.com/training/easy/1--ngr---basic-radar)
 - [x] [1D bush fire](Easy/1d-bush-fire.c) [![](link.png)](https://www.codingame.com/training/easy/1d-bush-fire)
