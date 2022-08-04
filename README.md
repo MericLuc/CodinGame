@@ -114,6 +114,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Random walk](Easy/random-walk.cpp) [![](link.png)](https://www.codingame.com/training/easy/random-walk)
 - [x] [Rectangle partition](Easy/rectangle-partition.cpp) [![](link.png)](https://www.codingame.com/training/easy/rectangle-partition)
 - [x] [Rectangular block spinner](Easy/rectangular-block-spinner.py) [![](link.png)](https://www.codingame.com/training/easy/rectangular-block-spinner)
+- [x] [Retro typewriter art](Easy/retro-typewriter-art.cpp) [![](link.png)](https://www.codingame.com/training/easy/retro-typewriter-art)
 - [x] [Reverse fizzbuzz](Easy/reverse-fizzbuzz.rb) [![](link.png)](https://www.codingame.com/training/easy/reverse-fizzbuzz)
 - [x] [Rock paper scissors lizard spock](Easy/rock-paper-scissors-lizard-spock.cpp) [![](link.png)](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)
 - [x] [Robot show](Easy/robot-show.cpp) [![](link.png)](https://www.codingame.com/training/easy/robot-show)
