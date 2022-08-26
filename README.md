@@ -134,6 +134,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Sweet spot](Easy/sweet-spot.cpp) [![](link.png)](https://www.codingame.com/training/easy/sweet-spot)
 - [x] [Temperatures](Easy/temperatures.js) [![](link.png)](https://www.codingame.com/training/easy/temperatures)
 - [x] [Text formatting](Easy/text-formatting.py) [![](link.png)](https://www.codingame.com/training/easy/text-formatting)
+- [x] [The broken editor](Easy/the-broken-editor.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-broken-editor)
 - [x] [The dart 101](Easy/the-dart-101.c) [![](link.png)](https://www.codingame.com/training/easy/the-dart-101)
 - [x] [The descent](Easy/the-descent.js) [![](link.png)](https://www.codingame.com/training/easy/the-descent)
 - [x] [The electrician apprentice](Easy/the-electrician-apprentice.cs) [![](link.png)](https://www.codingame.com/training/easy/the-electrician-apprentice)
