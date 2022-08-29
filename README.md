@@ -135,6 +135,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Sudoku Validator](Easy/sudoku-validator.py) [![](link.png)](https://www.codingame.com/training/easy/sudoku-validator)
 - [x] [Sum of Spiral's Diagonals](Easy/sum-of-spirals-diagonals.cpp) [![](link.png)](https://www.codingame.com/training/easy/sum-of-spirals-diagonals)
 - [x] [Sweet spot](Easy/sweet-spot.cpp) [![](link.png)](https://www.codingame.com/training/easy/sweet-spot)
+- [x] [Ted's compiler](Easy/teds-compiler.cpp) [![](link.png)](https://www.codingame.com/training/easy/teds-compiler)
 - [x] [Temperatures](Easy/temperatures.js) [![](link.png)](https://www.codingame.com/training/easy/temperatures)
 - [x] [Text formatting](Easy/text-formatting.py) [![](link.png)](https://www.codingame.com/training/easy/text-formatting)
 - [x] [The broken editor](Easy/the-broken-editor.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-broken-editor)
