@@ -120,6 +120,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Rock paper scissors lizard spock](Easy/rock-paper-scissors-lizard-spock.cpp) [![](link.png)](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)
 - [x] [Robot show](Easy/robot-show.cpp) [![](link.png)](https://www.codingame.com/training/easy/robot-show)
 - [x] [Rooks movements](Easy/rooks-movements.c) [![](link.png)](https://www.codingame.com/training/easy/rooks-movements)
+- [x] [Rotating arrows](Easy/rotating-arrows.cpp) [![](link.png)](https://www.codingame.com/training/easy/rotating-arrows)
 - [x] [Rugby score](Easy/rugby-score.c) [![](link.png)](https://www.codingame.com/training/easy/rugby-score)
 - [x] [Self driving car testing](Easy/self-driving-car-testing.c) [![](link.png)](https://www.codingame.com/training/easy/self-driving-car-testing)
 - [x] [Shadow casting](Easy/shadow-casting.cpp) [![](link.png)](https://www.codingame.com/training/easy/shadow-casting)
