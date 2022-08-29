@@ -215,6 +215,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Gravity tumbler](Medium/gravity-tumbler.py) [![](link.png)](https://www.codingame.com/training/medium/gravity-tumbler)
 - [x] [Green valleys](Medium/green-valleys.cpp) [![](link.png)](https://www.codingame.com/training/medium/green-valleys)
 - [x] [Hacking at robbercity](Medium/hacking-at-robbercity.js) [![](link.png)](https://www.codingame.com/training/medium/hacking-at-robbercity)
+- [x] [Hexagonal Maze](Medium/hexagonal-maze.cpp) [![](link.png)](https://www.codingame.com/training/medium/hexagonal-maze)
 - [x] [Huffman code](Medium/huffman-code.cpp) [![](link.png)](https://www.codingame.com/training/medium/huffman-code)
 - [x] [Inversion count](Medium/inversion-count.cs) [![](link.png)](https://www.codingame.com/training/medium/inversion-count)
 - [x] [IP mask calculating](Medium/ip-mask-calculating.cpp) [![](link.png)](https://www.codingame.com/training/medium/ip-mask-calculating)
