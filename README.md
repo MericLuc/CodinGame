@@ -46,6 +46,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Brackets extreme edition](Easy/brackets-extreme-edition.c) [![](link.png)](https://www.codingame.com/training/easy/brackets-extreme-edition)
 - [x] [Brick in the wall](Easy/brick-in-the-wall.c) [![](link.png)](https://www.codingame.com/training/easy/brick-in-the-wall)
 - [x] [Bulk email generator](Easy/bulk-email-generator.py) [![](link.png)](https://www.codingame.com/training/easy/bulk-email-generator)
+- [x] [Buzzle](Easy/buzzle.cpp) [![](link.png)](https://www.codingame.com/training/easy/buzzle)
 - [x] [Caesar is the chief](Easy/caesar-is-the-chief.cpp) [![](link.png)](https://www.codingame.com/training/easy/caesar-is-the-chief)
 - [x] [Chuck Norris](Easy/chuck-norris.cpp) [![](link.png)](https://www.codingame.com/training/easy/chuck-norris)
 - [x] [Code breaker puzzle](Easy/code-breaker-puzzle.py) [![](link.png)](https://www.codingame.com/training/easy/code-breaker-puzzle)
