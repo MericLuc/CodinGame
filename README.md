@@ -64,6 +64,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Detective Pikaptcha EP2](Easy/detective-pikaptcha-ep2.c) [![](link.png)](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)
 - [x] [Dice handedness](Easy/dice-handedness.py) [![](link.png)](https://www.codingame.com/training/easy/dice-handedness)
 - [x] [Disordered first contact](Easy/disordered-first-contact.js) [![](link.png)](https://www.codingame.com/training/easy/disordered-first-contact)
+- [x] [Distributing candy](Easy/distributing-candy.cpp) [![](link.png)](https://www.codingame.com/training/easy/distributing-candy)
 - [x] [Dolbear's law](Easy/dolbears-law.cpp) [![](link.png)](https://www.codingame.com/training/easy/dolbears-law)
 - [x] [Dungeons and maps](Easy/dungeons-and-maps.cpp) [![](link.png)](https://www.codingame.com/training/easy/dungeons-and-maps)
 - [x] [Encryption decryption of enigma machine](Easy/encryptiondecryption-of-enigma-machine.c) [![](link.png)](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine)
