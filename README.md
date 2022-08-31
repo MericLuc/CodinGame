@@ -246,6 +246,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Network cabling](Medium/network-cabling.cpp) [![](link.png)](https://www.codingame.com/training/medium/network-cabling)
 - [x] [Number of letters in a number - binary](Medium/number-of-letters-in-a-number---binary.cpp) [![](link.png)](https://www.codingame.com/training/medium/number-of-letters-in-a-number---binary)
 - [x] [Number of paths between 2 points](Medium/number-of-paths-between-2-points.c) [![](link.png)](https://www.codingame.com/training/medium/number-of-paths-between-2-points)
+- [x] [Oneway city](Medium/oneway-city.py) [![](link.png)](https://www.codingame.com/training/medium/oneway-city)
 - [x] [Othello](Medium/othello.js) [![](link.png)](https://www.codingame.com/training/medium/othello)
 - [x] [Parity scanner](Medium/parity-scanner.py) [![](link.png)](https://www.codingame.com/training/medium/parity-scanner)
 - [x] [Photo booth transformation](Medium/photo-booth-transformation.c) [![](link.png)](https://www.codingame.com/training/medium/photo-booth-transformation)
