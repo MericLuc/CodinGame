@@ -183,6 +183,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Binary sequence](Medium/binary-sequence.py) [![](link.png)](https://www.codingame.com/training/medium/binary-sequence)
 - [x] [Bingo](Medium/bingo.java) [![](link.png)](https://www.codingame.com/training/medium/bingo)
 - [x] [Bit count to limit](Medium/bit-count-to-limit.cpp) [![](link.png)](https://www.codingame.com/training/medium/bit-count-to-limit)
+- [x] [Bouncing barry](Medium/bouncing-barry.cs) [![](link.png)](https://www.codingame.com/training/medium/bouncing-barry)
 - [x] [Box of cigars](Medium/box-of-cigars.c) [![](link.png)](https://www.codingame.com/training/medium/box-of-cigars)
 - [x] [Brackets, enhanced edition](Medium/brackets-enhanced-edition.js) [![](link.png)](https://www.codingame.com/training/medium/brackets-enhanced-edition)
 - [x] [Brackets, extended edition](Medium/brackets-extended-edition.c) [![](link.png)](https://www.codingame.com/training/medium/brackets-extended-edition)
