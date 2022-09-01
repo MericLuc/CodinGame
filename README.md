@@ -89,6 +89,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [How time flies](Easy/how-time-flies.py) [![](link.png)](https://www.codingame.com/training/easy/how-time-flies)
 - [x] [Hunger games](Easy/hunger-games.py) [![](link.png)](https://www.codingame.com/training/easy/hunger-games)
 - [x] [In stereo](Easy/in-stereo.py) [![](link.png)](https://www.codingame.com/training/easy/in-stereo)
+- [x] [Insert to string](Easy/insert-to-string.cpp) [![](link.png)](https://www.codingame.com/training/easy/insert-to-string)
 - [x] [Ipv6 shortener](Easy/ipv6-shortener.py) [![](link.png)](https://www.codingame.com/training/easy/ipv6-shortener)
 - [x] [Is that a possible word? Ep1](Easy/is-that-a-possible-word-ep1.cpp) [![](link.png)](https://www.codingame.com/training/easy/is-that-a-possible-word-ep1)
 - [x] [ISBN check digit](Easy/isbn-check-digit.c) [![](link.png)](https://www.codingame.com/training/easy/isbn-check-digit)
