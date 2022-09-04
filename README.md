@@ -42,6 +42,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Bank robbers](Easy/bank-robbers.js) [![](link.png)](https://www.codingame.com/training/easy/bank-robbers)
 - [x] [Benford's law](Easy/benfords-law.cpp) [![](link.png)](https://www.codingame.com/training/easy/benfords-law)
 - [x] [Binary image](Easy/binary-image.py) [![](link.png)](https://www.codingame.com/training/easy/binary-image)
+- [x] [Blackjack-solver.py](Easy/blackjack-solver.py) [![](link.png)](https://www.codingame.com/training/easy/blackjack-solver)
 - [x] [Blowing fuse](Easy/blowing-fuse.c) [![](link.png)](https://www.codingame.com/training/easy/blowing-fuse)
 - [x] [Brackets extreme edition](Easy/brackets-extreme-edition.c) [![](link.png)](https://www.codingame.com/training/easy/brackets-extreme-edition)
 - [x] [Brick in the wall](Easy/brick-in-the-wall.c) [![](link.png)](https://www.codingame.com/training/easy/brick-in-the-wall)
