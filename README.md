@@ -107,6 +107,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [May the triforce be with you](Easy/may-the-triforce-be-with-you.c) [![](link.png)](https://www.codingame.com/training/easy/may-the-triforce-be-with-you)
 - [x] [MIME type](Easy/mime-type.py) [![](link.png)](https://www.codingame.com/training/easy/mime-type)
 - [x] [Reverse Minesweeper](Easy/reverse-minesweeper.cpp) [![](link.png)](https://www.codingame.com/training/easy/reverse-minesweeper)
+- [x] [Merlin's magic square](Easy/merlins-magic-square.cpp) [![](link.png)](https://www.codingame.com/training/easy/merlins-magic-square)
 - [x] [Metric Units](Easy/metric-units.cs) [![](link.png)](https://www.codingame.com/training/easy/metric-units)
 - [x] [Minesweeper level generator](Easy/minesweeper-level-generator.cpp) [![](link.png)](https://www.codingame.com/training/easy/minesweeper-level-generator)
 - [x] [Monday tuesday happy days](Easy/monday-tuesday-happy-days.py) [![](link.png)](https://www.codingame.com/training/easy/monday-tuesday-happy-days)
