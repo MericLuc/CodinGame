@@ -52,6 +52,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Buzzle](Easy/buzzle.cpp) [![](link.png)](https://www.codingame.com/training/easy/buzzle)
 - [x] [Caesar is the chief](Easy/caesar-is-the-chief.cpp) [![](link.png)](https://www.codingame.com/training/easy/caesar-is-the-chief)
 - [x] [Calculator](Easy/calculator.cpp) [![](link.png)](https://www.codingame.com/training/easy/calculator)
+- [x] [Character replacement problem](Easy/character-replacement-problem.cpp) [![](link.png)](https://www.codingame.com/training/easy/character-replacement-problem)
 - [x] [Chuck Norris](Easy/chuck-norris.cpp) [![](link.png)](https://www.codingame.com/training/easy/chuck-norris)
 - [x] [Code breaker puzzle](Easy/code-breaker-puzzle.py) [![](link.png)](https://www.codingame.com/training/easy/code-breaker-puzzle)
 - [x] [Container terminal](Easy/container-terminal.cpp) [![](link.png)](https://www.codingame.com/training/easy/container-terminal)
