@@ -103,6 +103,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Largest number](Easy/largest-number.py) [![](link.png)](https://www.codingame.com/training/easy/largest-number)
 - [x] [Logic gates](Easy/logic-gates.cpp) [![](link.png)](https://www.codingame.com/training/easy/logic-gates)
 - [x] [Logically reasonable inequalities](Easy/logically-reasonable-inequalities.cpp) [![](link.png)](https://www.codingame.com/training/easy/logically-reasonable-inequalities)
+- [x] [Longest coast](Easy/longest-coast.cpp) [![](link.png)](https://www.codingame.com/training/easy/longest-coast)
 - [x] [Low Resolution: what's the shape?](Easy/low-resolution-whats-the-shape.cpp) [![](link.png)](https://www.codingame.com/training/easy/low-resolution-whats-the-shape)
 - [x] [Lumen](Easy/lumen.c) [![](link.png)](https://www.codingame.com/training/easy/lumen)
 - [x] [Mars lander episode 1](Easy/mars-lander-episode-1.py) [![](link.png)](https://www.codingame.com/training/easy/mars-lander-episode-1)
