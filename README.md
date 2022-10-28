@@ -210,6 +210,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Carmichael numbers](Medium/carmichael-numbers.c) [![](link.png)](https://www.codingame.com/training/medium/carmichael-numbers)
 - [x] [CGFunge interpreter](Medium/cgfunge-interpreter.py) [![](link.png)](https://www.codingame.com/training/medium/cgfunge-interpreter)
 - [x] [CGS minifier](Medium/cgs-minifier.cpp) [![](link.png)](https://www.codingame.com/training/medium/cgs-minifier)
+- [x] [Constrained latin squares](Medium/constrained-latin-squares.cpp) [![](link.png)](https://www.codingame.com/training/medium/constrained-latin-squares)
 - [x] [Conway sequence](Medium/conway-sequence.cpp) [![](link.png)](https://www.codingame.com/training/medium/conway-sequence)
 - [x] [Count of primes in a number grid](Medium/count-of-primes-in-a-number-grid.c) [![](link.png)](https://www.codingame.com/training/medium/count-of-primes-in-a-number-grid)
 - [x] [Counting squares on pegs](Medium/counting-squares-on-pegs.js) [![](link.png)](https://www.codingame.com/training/medium/counting-squares-on-pegs)
