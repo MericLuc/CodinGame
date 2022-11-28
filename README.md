@@ -111,6 +111,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Match DNA sequence](Easy/match-dna-sequence.rs) [![](link.png)](https://www.codingame.com/training/easy/match-dna-sequence)
 - [x] [Max area](Easy/max-area.cpp) [![](link.png)](https://www.codingame.com/training/easy/max-area)
 - [x] [May the triforce be with you](Easy/may-the-triforce-be-with-you.c) [![](link.png)](https://www.codingame.com/training/easy/may-the-triforce-be-with-you)
+- [x] [Messed up mosaics](Easy/messed-up-mosaics.cpp) [![](link.png)](https://www.codingame.com/training/easy/messed-up-mosaics)
 - [x] [MIME type](Easy/mime-type.py) [![](link.png)](https://www.codingame.com/training/easy/mime-type)
 - [x] [Reverse Minesweeper](Easy/reverse-minesweeper.cpp) [![](link.png)](https://www.codingame.com/training/easy/reverse-minesweeper)
 - [x] [Merlin's magic square](Easy/merlins-magic-square.cpp) [![](link.png)](https://www.codingame.com/training/easy/merlins-magic-square)
