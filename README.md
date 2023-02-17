@@ -147,6 +147,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Rugby score](Easy/rugby-score.c) [![](link.png)](https://www.codingame.com/training/easy/rugby-score)
 - [x] [Self driving car testing](Easy/self-driving-car-testing.c) [![](link.png)](https://www.codingame.com/training/easy/self-driving-car-testing)
 - [x] [Shadow casting](Easy/shadow-casting.cpp) [![](link.png)](https://www.codingame.com/training/easy/shadow-casting)
+- [x] [Shoot enemy aircraft](Easy/shoot-enemy-aircraft.cpp) [![]](link.png)](https://www.codingame.com/training/easy/shoot-enemy-aircraft)
 - [x] [Should bakers be frugal](Easy/should-bakers-be-frugal.cpp) [![](link.png)](https://www.codingame.com/training/easy/should-bakers-be-frugal)
 - [x] [Simple auto scaling](Easy/simple-auto-scaling.cpp) [![](link.png)](https://www.codingame.com/training/easy/simple-auto-scaling)
 - [x] [Simple awalé](Easy/simple-awale.js) [![](link.png)](https://www.codingame.com/training/easy/simple-awale)
