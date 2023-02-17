@@ -75,6 +75,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Dolbear's law](Easy/dolbears-law.cpp) [![](link.png)](https://www.codingame.com/training/easy/dolbears-law)
 - [x] [Dungeons and maps](Easy/dungeons-and-maps.cpp) [![](link.png)](https://www.codingame.com/training/easy/dungeons-and-maps)
 - [x] [Encryption decryption of enigma machine](Easy/encryptiondecryption-of-enigma-machine.c) [![](link.png)](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine)
+- [x] [Euclid's algorithm](Easy/euclids-algorithm.cpp) [![](link.png)](https://www.codingame.com/training/easy/euclids-algorithm)
 - [x] [Equivalent resistance circuit building](Easy/equivalent-resistance-circuit-building.java) [![](link.png)](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building)
 - [x] [Extended Hamming codes](Easy/extended-hamming-codes.py) [![](link.png)](https://www.codingame.com/training/easy/extended-hamming-codes)
 - [x] [Faro shuffle](Easy/faro-shuffle.cpp) [![](link.png)](https://www.codingame.com/training/easy/faro-shuffle)
