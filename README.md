@@ -16,10 +16,14 @@ It includes
     
 * [**Clash of codes**](https://www.codingame.com/multiplayer/clashofcode) - **_Challenge_** yourself and be the first to complete a puzzle in 15-minutes  :hourglass_flowing_sand: !
 
-
 This folder is dedicated to **some of my solutions** for the puzzles.
 
-## Easy
+<details>
+<summary>
+
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(164 puzzles)
+
+</summary>
 
 - [x] [10 Pin bowling scores](Easy/10-pin-bowling-scores.cs) [![](link.png)](https://www.codingame.com/training/easy/10-pin-bowling-scores)
 - [x] [1000000000D World](Easy/1000000000d-world.cpp) [![](link.png)](https://www.codingame.com/training/easy/1000000000d-world)
@@ -186,7 +190,14 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [XML MDF-2016](Easy/xml-mdf-2016.cpp) [![](link.png)](https://www.codingame.com/training/easy/xml-mdf-2016)
 - [x] [Zhiwei sun squares](Easy/zhiwei-sun-squares.cpp) [![](link.png)](https://www.codingame.com/training/easy/zhiwei-sun-squares)
 
-## Medium
+</details>
+
+<details>
+<summary>
+
+## Medium &ensp;&ensp;(122 puzzles)
+
+</summary>
 
 - [x] [1010(1)](Medium/10101.c) [![](link.png)](https://www.codingame.com/training/medium/10101)
 - [x] [A* exercise](Medium/a-star-exercise.cpp) [![](link.png)](https://www.codingame.com/training/medium/a-star-exercise)
@@ -311,16 +322,39 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Winamax battle](Medium/winamax-battle.cpp) [![](link.png)](https://www.codingame.com/training/medium/winamax-battle)
 - [x] [What the brainfuck!](Medium/what-the-brainfuck.cpp) [![](link.png)](https://www.codingame.com/training/medium/what-the-brainfuck)
 
-## Hard
+</details>
+
+<details>
+<summary>
+
+## Hard &ensp;&ensp;&ensp;&ensp;&ensp;(&nbsp;&nbsp;&nbsp;&nbsp;4 puzzles)
+
+</summary>
+
 - [x] [Chess board analyzer](Hard/chess-board-analyzer.cpp) [![](link.png)](https://www.codingame.com/training/hard/chess-board-analyzer)
 - [x] [Doubly solved rubiks cube](Hard/doubly-solved-rubiks-cube.py) [![](link.png)](https://www.codingame.com/training/hard/doubly-solved-rubiks-cube)
 - [x] [Levenshtein distance](Hard/levenshtein-distance.cpp) [![](link.png)](https://www.codingame.com/training/hard/levenshtein-distance)
 - [x] [Max Rect](Hard/max-rect.cpp) [![](link.png)](https://www.codingame.com/training/hard/max-rect)
 
-## Very Hard
+</details>
+
+<details>
+<summary>
+
+## Very Hard (&nbsp;&nbsp;&nbsp;&nbsp;1 puzzles)
+
+</summary>
+
 - [x] [The Resistance](Very%20hard/the-resistance.cpp) [![](link.png)](https://www.codingame.com/training/expert/the-resistance)
 
+</details>
+
+<details>
+<summary>
+
 ## Contact me
+
+</summary>
 
  You have some suggestions, remarks ?
  
@@ -331,3 +365,5 @@ This folder is dedicated to **some of my solutions** for the puzzles.
  Or maybe you just wanna play ? :smiley: Then here is my [**_profile_**](https://www.codingame.com/profile/36481b0e11f9a85fe9f5229dde04b17c0913923) !
  
  **lhm**
+
+</details>
