@@ -327,10 +327,11 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Hard &ensp;&ensp;&ensp;&ensp;&ensp;(&nbsp;&nbsp;&nbsp;&nbsp;6 puzzles)
+## Hard &ensp;&ensp;&ensp;&ensp;&ensp;(&nbsp;&nbsp;&nbsp;&nbsp;7 puzzles)
 
 </summary>
 
+- [x] [Blunder - episode 2](Hard/blunder-episode-2.cpp) [![](link.png)](https://www.codingame.com/training/hard/blunder-episode-2)
 - [x] [Chess board analyzer](Hard/chess-board-analyzer.cpp) [![](link.png)](https://www.codingame.com/training/hard/chess-board-analyzer)
 - [x] [Death first search - episode 2](Hard/death-first-search-episode-2.cpp) [![](link.png)](https://www.codingame.com/training/hard/death-first-search-episode-2)
 - [x] [Doubly solved rubiks cube](Hard/doubly-solved-rubiks-cube.py) [![](link.png)](https://www.codingame.com/training/hard/doubly-solved-rubiks-cube)
