@@ -327,7 +327,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Hard &ensp;&ensp;&ensp;&ensp;&ensp;(&nbsp;&nbsp;&nbsp;&nbsp;4 puzzles)
+## Hard &ensp;&ensp;&ensp;&ensp;&ensp;(&nbsp;&nbsp;&nbsp;&nbsp;5 puzzles)
 
 </summary>
 
@@ -335,6 +335,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Doubly solved rubiks cube](Hard/doubly-solved-rubiks-cube.py) [![](link.png)](https://www.codingame.com/training/hard/doubly-solved-rubiks-cube)
 - [x] [Levenshtein distance](Hard/levenshtein-distance.cpp) [![](link.png)](https://www.codingame.com/training/hard/levenshtein-distance)
 - [x] [Max Rect](Hard/max-rect.cpp) [![](link.png)](https://www.codingame.com/training/hard/max-rect)
+- [x] [The labyrinth](Hard/the-labyrinth.cpp) [![](link.png)](https://www.codingame.com/training/hard/the-labyrinth)
 
 </details>
 
