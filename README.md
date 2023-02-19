@@ -327,7 +327,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Hard &ensp;&ensp;&ensp;&ensp;&ensp;(&nbsp;&nbsp;&nbsp;&nbsp;7 puzzles)
+## Hard &ensp;&ensp;&ensp;&ensp;&ensp;(&nbsp;&nbsp;&nbsp;&nbsp;8 puzzles)
 
 </summary>
 
@@ -335,6 +335,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Chess board analyzer](Hard/chess-board-analyzer.cpp) [![](link.png)](https://www.codingame.com/training/hard/chess-board-analyzer)
 - [x] [Death first search - episode 2](Hard/death-first-search-episode-2.cpp) [![](link.png)](https://www.codingame.com/training/hard/death-first-search-episode-2)
 - [x] [Doubly solved rubiks cube](Hard/doubly-solved-rubiks-cube.py) [![](link.png)](https://www.codingame.com/training/hard/doubly-solved-rubiks-cube)
+- [x] [Hanoi tower](Hard/hanoi-tower.cpp) [![](link.png)](https://www.codingame.com/training/hard/hanoi-tower)
 - [x] [Levenshtein distance](Hard/levenshtein-distance.cpp) [![](link.png)](https://www.codingame.com/training/hard/levenshtein-distance)
 - [x] [Max Rect](Hard/max-rect.cpp) [![](link.png)](https://www.codingame.com/training/hard/max-rect)
 - [x] [The labyrinth](Hard/the-labyrinth.cpp) [![](link.png)](https://www.codingame.com/training/hard/the-labyrinth)
