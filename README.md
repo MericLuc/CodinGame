@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(164 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(165 puzzles)
 
 </summary>
 
@@ -56,6 +56,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Buzzle](Easy/buzzle.cpp) [![](link.png)](https://www.codingame.com/training/easy/buzzle)
 - [x] [Caesar is the chief](Easy/caesar-is-the-chief.cpp) [![](link.png)](https://www.codingame.com/training/easy/caesar-is-the-chief)
 - [x] [Calculator](Easy/calculator.cpp) [![](link.png)](https://www.codingame.com/training/easy/calculator)
+- [x] [Card counting when easily distracted](Easy/card-counting-when-easily-distracted.cpp) [![](link.png)](https://www.codingame.com/training/easy/card-counting-when-easily-distracted)
 - [x] [Catching up](Easy/catching-up.cpp) [![](link.png)](https://www.codingame.com/training/easy/catching-up)
 - [x] [Character replacement problem](Easy/character-replacement-problem.cpp) [![](link.png)](https://www.codingame.com/training/easy/character-replacement-problem)
 - [x] [Chuck Norris](Easy/chuck-norris.cpp) [![](link.png)](https://www.codingame.com/training/easy/chuck-norris)
