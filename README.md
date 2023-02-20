@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(165 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(166 puzzles)
 
 </summary>
 
@@ -146,8 +146,9 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Rectangular block spinner](Easy/rectangular-block-spinner.py) [![](link.png)](https://www.codingame.com/training/easy/rectangular-block-spinner)
 - [x] [Retro typewriter art](Easy/retro-typewriter-art.cpp) [![](link.png)](https://www.codingame.com/training/easy/retro-typewriter-art)
 - [x] [Reverse fizzbuzz](Easy/reverse-fizzbuzz.rb) [![](link.png)](https://www.codingame.com/training/easy/reverse-fizzbuzz)
-- [x] [Rock paper scissors lizard spock](Easy/rock-paper-scissors-lizard-spock.cpp) [![](link.png)](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)
+- [x] [Robot reach](Easy/robot-reach.cpp) [![](link.png)](https://www.codingame.com/training/easy/robot-reach)
 - [x] [Robot show](Easy/robot-show.cpp) [![](link.png)](https://www.codingame.com/training/easy/robot-show)
+- [x] [Rock paper scissors lizard spock](Easy/rock-paper-scissors-lizard-spock.cpp) [![](link.png)](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)
 - [x] [Rooks movements](Easy/rooks-movements.c) [![](link.png)](https://www.codingame.com/training/easy/rooks-movements)
 - [x] [Rotating arrows](Easy/rotating-arrows.cpp) [![](link.png)](https://www.codingame.com/training/easy/rotating-arrows)
 - [x] [Rugby score](Easy/rugby-score.c) [![](link.png)](https://www.codingame.com/training/easy/rugby-score)
