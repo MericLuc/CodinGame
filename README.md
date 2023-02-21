@@ -331,7 +331,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Hard &ensp;&ensp;&ensp;&ensp;&ensp;(&nbsp;&nbsp;&nbsp;&nbsp;9 puzzles)
+## Hard &ensp;&ensp;&ensp;&ensp;&ensp;(&nbsp;&nbsp;10 puzzles)
 
 </summary>
 
@@ -344,6 +344,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Levenshtein distance](Hard/levenshtein-distance.cpp) [![](link.png)](https://www.codingame.com/training/hard/levenshtein-distance)
 - [x] [Max Rect](Hard/max-rect.cpp) [![](link.png)](https://www.codingame.com/training/hard/max-rect)
 - [x] [The labyrinth](Hard/the-labyrinth.cpp) [![](link.png)](https://www.codingame.com/training/hard/the-labyrinth)
+- [x] [Vox codei - episode 1](Hard/vox-codei-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/hard/vox-codei-episode-1)
 
 </details>
 
