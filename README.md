@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(169 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(170 puzzles)
 
 </summary>
 
@@ -127,6 +127,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Minesweeper level generator](Easy/minesweeper-level-generator.cpp) [![](link.png)](https://www.codingame.com/training/easy/minesweeper-level-generator)
 - [x] [Monday tuesday happy days](Easy/monday-tuesday-happy-days.py) [![](link.png)](https://www.codingame.com/training/easy/monday-tuesday-happy-days)
 - [x] [Morellet's random lines](Easy/morellets-random-lines.js) [![](link.png)](https://www.codingame.com/training/easy/morellets-random-lines)
+- [x] [Mountain map convergence](Easy/mountain-map-convergence.py) [![](link.png)](https://www.codingame.com/training/easy/mountain-map-convergence)
 - [x] [Mountain map](Easy/mountain-map.py) [![](link.png)](https://www.codingame.com/training/easy/mountain-map)
 - [x] [Moves in maze](Easy/moves-in-maze.cpp) [![](link.png)](https://www.codingame.com/training/easy/moves-in-maze)
 - [x] [Murder in the village](Easy/murder-in-the-village.py) [![](link.png)](https://www.codingame.com/training/easy/murder-in-the-village)
