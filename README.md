@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(171 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(172 puzzles)
 
 </summary>
 
@@ -194,6 +194,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Video comments](Easy/video-comments.py) [![](link.png)](https://www.codingame.com/training/easy/video-comments)
 - [x] [What's so complex about Mandelbrot?](Easy/whats-so-complex-about-mandelbrot.c) [![](link.png)](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot)
 - [x] [Where's Wally](Easy/wheres-wally.cpp) [![](link.png)](https://www.codingame.com/training/easy/wheres-wally)
+- [x] [Wordle collorizer](Easy/wordle-colorizer.cpp) [![](link.png)](https://www.codingame.com/training/easy/wordle-colorizer)
 - [x] [XML MDF-2016](Easy/xml-mdf-2016.cpp) [![](link.png)](https://www.codingame.com/training/easy/xml-mdf-2016)
 - [x] [Zhiwei sun squares](Easy/zhiwei-sun-squares.cpp) [![](link.png)](https://www.codingame.com/training/easy/zhiwei-sun-squares)
 
