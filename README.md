@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(172 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(173 puzzles)
 
 </summary>
 
@@ -75,6 +75,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Detective Pikaptcha EP1](Easy/detective-pikaptcha-ep1.c) [![](link.png)](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)
 - [x] [Detective Pikaptcha EP2](Easy/detective-pikaptcha-ep2.c) [![](link.png)](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)
 - [x] [Dice handedness](Easy/dice-handedness.py) [![](link.png)](https://www.codingame.com/training/easy/dice-handedness)
+- [x] [Digital scoreboard](Easy/digital-scoreboard.cpp) [![](link.png)](https://www.codingame.com/training/easy/digital-scoreboard)
 - [x] [Disordered first contact](Easy/disordered-first-contact.js) [![](link.png)](https://www.codingame.com/training/easy/disordered-first-contact)
 - [x] [Distributing candy](Easy/distributing-candy.cpp) [![](link.png)](https://www.codingame.com/training/easy/distributing-candy)
 - [x] [Dolbear's law](Easy/dolbears-law.cpp) [![](link.png)](https://www.codingame.com/training/easy/dolbears-law)
