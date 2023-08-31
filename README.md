@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(173 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(174 puzzles)
 
 </summary>
 
@@ -185,6 +185,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [The River I.](Easy/the-river-i.c) [![](link.png)](https://www.codingame.com/training/easy/the-river-i-)
 - [x] [The River II.](Easy/the-river-ii.c) [![](link.png)](https://www.codingame.com/training/easy/the-river-ii-)
 - [x] [The travelling salesman problem](Easy/the-travelling-salesman-problem.c) [![](link.png)](https://www.codingame.com/training/easy/the-travelling-salesman-problem)
+- [x] [The weight of words](Easy/the-weight-of-words.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-weight-of-words)
 - [x] [Tic tac toe](Easy/tictactoe.py) [![](link.png)](https://www.codingame.com/training/easy/tictactoe)
 - [x] [Treasure hunt](Easy/treasure-hunt.cpp) [![](link.png)](https://www.codingame.com/training/easy/treasure-hunt)
 - [x] [Tree paths](Easy/tree-paths.rb) [![](link.png)](https://www.codingame.com/training/easy/tree-paths)
