@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(174 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(175 puzzles)
 
 </summary>
 
@@ -193,6 +193,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Ulam spiral](Easy/ulam-spiral.py) [![](link.png)](https://www.codingame.com/training/easy/ulam-spiral)
 - [x] [Unit fractions](Easy/unit-fractions.c) [![](link.png)](https://www.codingame.com/training/easy/unit-fractions)
 - [x] [Van Eck's sequence](Easy/van-eck.cpp) [![](link.png)](https://www.codingame.com/training/easy/van-ecks-sequence)
+- [x] [Vectors in variables dimensions](Easy/vectors-in-variables-dimensions.py) [![](link.png)](https://www.codingame.com/training/easy/vectors-in-variables-dimensions)
 - [x] [Video comments](Easy/video-comments.py) [![](link.png)](https://www.codingame.com/training/easy/video-comments)
 - [x] [What's so complex about Mandelbrot?](Easy/whats-so-complex-about-mandelbrot.c) [![](link.png)](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot)
 - [x] [Where's Wally](Easy/wheres-wally.cpp) [![](link.png)](https://www.codingame.com/training/easy/wheres-wally)
