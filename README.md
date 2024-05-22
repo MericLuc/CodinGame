@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(176 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(178 puzzles)
 
 </summary>
 
@@ -92,6 +92,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [FireControl](Easy/firecontrol.cpp) [![](link.png)](https://www.codingame.com/training/easy/firecontrol)
 - [x] [Flip the sign](Easy/flip-the-sign.cpp) [![](link.png)](https://www.codingame.com/training/easy/flip-the-sign)
 - [x] [Frame the picture](Easy/frame-the-picture.cpp) [![](link.png)](https://www.codingame.com/training/easy/frame-the-picture)
+- [x] [GDQ - binary coded decimal clock](Easy/gdq---binary-coded-decimal-clock.cpp) [![](link.png)](https://www.codingame.com/training/easy/gdq---binary-coded-decimal-clock)
 - [x] [Genetics and computers - part 1](Easy/genetics-and-computers---part-1.py) [![](link.png)](https://www.codingame.com/training/easy/genetics-and-computers---part-1)
 - [x] [Ghost legs](Easy/ghost-legs.c) [![](link.png)](https://www.codingame.com/training/easy/ghost-legs)
 - [x] [Graffiti on the fence](Easy/graffiti-on-the-fence.cpp) [![](link.png)](https://www.codingame.com/training/easy/graffiti-on-the-fence)
