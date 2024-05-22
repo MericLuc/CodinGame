@@ -164,6 +164,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Simple auto scaling](Easy/simple-auto-scaling.cpp) [![](link.png)](https://www.codingame.com/training/easy/simple-auto-scaling)
 - [x] [Simple awalé](Easy/simple-awale.js) [![](link.png)](https://www.codingame.com/training/easy/simple-awale)
 - [x] [Simple load balancing](Easy/simple-load-balancing.cpp) [![](link.png)](https://www.codingame.com/training/easy/simple-load-balancing)
+- [x] [Six degrees of Kevin Bacon](Easy/six-degrees-of-kevin-bacon.cpp) [![](link.png)](https://www.codingame.com/training/easy/six-degrees-of-kevin-bacon)
 - [x] [Smooth!](Easy/smooth.sh) [![](link.png)](https://www.codingame.com/training/easy/smooth)
 - [x] [Snail run](Easy/snail-run.cpp) [![](link.png)](https://www.codingame.com/training/easy/snail-run)
 - [x] [Snake sort 2D](Easy/snake-sort-2d.cpp) [![](link.png)](https://www.codingame.com/training/easy/snake-sort-2d)
