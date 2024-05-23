@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(178 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(179 puzzles)
 
 </summary>
 
@@ -75,6 +75,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Defibrillators](Easy/defibrillators.cpp) [![](link.png)](https://www.codingame.com/training/easy/defibrillators)
 - [x] [Detective Pikaptcha EP1](Easy/detective-pikaptcha-ep1.c) [![](link.png)](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)
 - [x] [Detective Pikaptcha EP2](Easy/detective-pikaptcha-ep2.c) [![](link.png)](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)
+- [x] [Deus hex machina](Easy/deus-hex-machina.py) [![](link.png)](https://www.codingame.com/training/easy/deus-hex-machina)
 - [x] [Dice handedness](Easy/dice-handedness.py) [![](link.png)](https://www.codingame.com/training/easy/dice-handedness)
 - [x] [Digital scoreboard](Easy/digital-scoreboard.cpp) [![](link.png)](https://www.codingame.com/training/easy/digital-scoreboard)
 - [x] [Disordered first contact](Easy/disordered-first-contact.js) [![](link.png)](https://www.codingame.com/training/easy/disordered-first-contact)
