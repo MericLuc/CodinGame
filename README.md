@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(179 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(180 puzzles)
 
 </summary>
 
@@ -65,6 +65,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Cosmic Love](Easy/cosmic-love.cpp) [![](link.png)](https://www.codingame.com/training/easy/cosmic-love)
 - [x] [Count as I count](Easy/count-as-i-count.cpp) [![](link.png)](https://www.codingame.com/training/easy/count-as-i-count)
 - [x] [Count your coins](Easy/count-your-coins.cpp) [![](link.png)](https://www.codingame.com/training/easy/count-your-coins)
+- [x] [Crazy list](Easy/crazy-list.cpp) [![](link.png)](https://www.codingame.com/training/easy/crazy-list)
 - [x] [Create the longest sequence of 1s](Easy/create-the-longest-sequence-of-1s.c) [![](link.png)](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s)
 - [x] [Credit card verifier](Easy/credit-card-verifier-luhns-algorithm.cpp) [![](link.png)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm)
 - [x] [Crop circles](Easy/crop-circles.cs) [![](link.png)](https://www.codingame.com/ide/puzzle/crop-circles)
