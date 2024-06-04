@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(180 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(181 puzzles)
 
 </summary>
 
@@ -136,6 +136,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Mountain map](Easy/mountain-map.py) [![](link.png)](https://www.codingame.com/training/easy/mountain-map)
 - [x] [Moves in maze](Easy/moves-in-maze.cpp) [![](link.png)](https://www.codingame.com/training/easy/moves-in-maze)
 - [x] [Murder in the village](Easy/murder-in-the-village.py) [![](link.png)](https://www.codingame.com/training/easy/murder-in-the-village)
+- [x] [Nato alphabets odd uncles](Easy/nato-alphabets-odd-uncles.cpp) [![](link.png)](https://www.codingame.com/training/easy/nato-alphabets-odd-uncles)
 - [x] [Nature of quadrilaterals](Easy/nature-of-quadrilaterals.c) [![](link.png)](https://www.codingame.com/training/easy/nature-of-quadrilaterals)
 - [x] [Next growing number](Easy/next-growing-number.cpp) [![](link.png)](https://www.codingame.com/training/easy/next-growing-number)
 - [x] [Number derivation](Easy/number-derivation.py) [![](link.png)](https://www.codingame.com/training/easy/number-derivation)
