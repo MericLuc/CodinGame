@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(181 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(182 puzzles)
 
 </summary>
 
@@ -112,6 +112,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Is that a possible word? Ep1](Easy/is-that-a-possible-word-ep1.cpp) [![](link.png)](https://www.codingame.com/training/easy/is-that-a-possible-word-ep1)
 - [x] [ISBN check digit](Easy/isbn-check-digit.c) [![](link.png)](https://www.codingame.com/training/easy/isbn-check-digit)
 - [x] [Jack Silver: The Casino](Easy/jack-silver-the-casino.c) [![](link.png)](https://www.codingame.com/training/easy/jack-silver-the-casino)
+- [x] [Kangaroo words](Easy/kangaroo-words.cpp) [![](link.png)](https://www.codingame.com/training/easy/kangaroo-words)
 - [x] [Kiss the girls](Easy/kiss-the-girls.cpp) [![](link.png)](https://www.codingame.com/training/easy/kiss-the-girls)
 - [x] [Largest number](Easy/largest-number.py) [![](link.png)](https://www.codingame.com/training/easy/largest-number)
 - [x] [Logic gates](Easy/logic-gates.cpp) [![](link.png)](https://www.codingame.com/training/easy/logic-gates)
