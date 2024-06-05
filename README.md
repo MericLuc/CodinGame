@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(182 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(183 puzzles)
 
 </summary>
 
@@ -206,6 +206,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Where's Wally](Easy/wheres-wally.cpp) [![](link.png)](https://www.codingame.com/training/easy/wheres-wally)
 - [x] [Wordle collorizer](Easy/wordle-colorizer.cpp) [![](link.png)](https://www.codingame.com/training/easy/wordle-colorizer)
 - [x] [XML MDF-2016](Easy/xml-mdf-2016.cpp) [![](link.png)](https://www.codingame.com/training/easy/xml-mdf-2016)
+- [x] [Zeckendorf representation part I](Easy/zeckendorf-representation-part-i.cpp) [![](link.png)](https://www.codingame.com/training/easy/zeckendorf-representation-part-i)
 - [x] [Zhiwei sun squares](Easy/zhiwei-sun-squares.cpp) [![](link.png)](https://www.codingame.com/training/easy/zhiwei-sun-squares)
 
 </details>
