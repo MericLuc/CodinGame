@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(183 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(184 puzzles)
 
 </summary>
 
@@ -141,6 +141,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Nature of quadrilaterals](Easy/nature-of-quadrilaterals.c) [![](link.png)](https://www.codingame.com/training/easy/nature-of-quadrilaterals)
 - [x] [Next growing number](Easy/next-growing-number.cpp) [![](link.png)](https://www.codingame.com/training/easy/next-growing-number)
 - [x] [Number derivation](Easy/number-derivation.py) [![](link.png)](https://www.codingame.com/training/easy/number-derivation)
+- [x] [Number partition](Easy/number-partition.cpp) [![](link.png)](https://www.codingame.com/training/easy/number-partition)
 - [x] [Object insertion](Easy/object-insertion.cpp) [![](link.png)](https://www.codingame.com/training/easy/object-insertion)
 - [x] [Offset arrays](Easy/offset-arrays.py) [![](link.png)](https://www.codingame.com/ide/puzzle/offset-arrays)
 - [x] [Onboarding](Easy/onboarding.cpp) [![](link.png)](https://www.codingame.com/training/easy/onboarding)
