@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(185 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(186 puzzles)
 
 </summary>
 
@@ -143,6 +143,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Number derivation](Easy/number-derivation.py) [![](link.png)](https://www.codingame.com/training/easy/number-derivation)
 - [x] [Number partition](Easy/number-partition.cpp) [![](link.png)](https://www.codingame.com/training/easy/number-partition)
 - [x] [Object insertion](Easy/object-insertion.cpp) [![](link.png)](https://www.codingame.com/training/easy/object-insertion)
+- [x] [Odd quad out](Easy/odd-quad-out.cpp) [![](link.png)](https://www.codingame.com/training/easy/odd-quad-out)
 - [x] [Offset arrays](Easy/offset-arrays.py) [![](link.png)](https://www.codingame.com/ide/puzzle/offset-arrays)
 - [x] [Onboarding](Easy/onboarding.cpp) [![](link.png)](https://www.codingame.com/training/easy/onboarding)
 - [x] [Order of succession](Easy/order-of-succession.py) [![](link.png)](https://www.codingame.com/training/easy/order-of-succession)
