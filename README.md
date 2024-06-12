@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(184 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(185 puzzles)
 
 </summary>
 
@@ -158,6 +158,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Reverse fizzbuzz](Easy/reverse-fizzbuzz.rb) [![](link.png)](https://www.codingame.com/training/easy/reverse-fizzbuzz)
 - [x] [Robot reach](Easy/robot-reach.cpp) [![](link.png)](https://www.codingame.com/training/easy/robot-reach)
 - [x] [Robot show](Easy/robot-show.cpp) [![](link.png)](https://www.codingame.com/training/easy/robot-show)
+- [x] [Rocks papers scissors-es](Easy/rocks-papers-scissors-es.cpp) [![](link.png)](https://www.codingame.com/training/easy/rocks-papers-scissors-es)
 - [x] [Rock paper scissors lizard spock](Easy/rock-paper-scissors-lizard-spock.cpp) [![](link.png)](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)
 - [x] [Rooks movements](Easy/rooks-movements.c) [![](link.png)](https://www.codingame.com/training/easy/rooks-movements)
 - [x] [Rotating arrows](Easy/rotating-arrows.cpp) [![](link.png)](https://www.codingame.com/training/easy/rotating-arrows)
