@@ -218,7 +218,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Medium &ensp;&ensp;(123 puzzles)
+## Medium &ensp;&ensp;(124 puzzles)
 
 </summary>
 
@@ -339,6 +339,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [The optimal urinal problem](Medium/the-optimal-urinal-problem.js) [![](link.png)](https://www.codingame.com/training/medium/the-optimal-urinal-problem)
 - [x] [There is no spoon - episode 1](Medium/there-is-no-spoon-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
 - [x] [These romans are crazy!](Medium/these-romans-are-crazy!.cpp) [![](link.png)](https://www.codingame.com/training/medium/these-romans-are-crazy!)
+- [x] [Tiny forest](Medium/tiny-forest.cpp) [![](link.png)](https://www.codingame.com/training/medium/tiny-forest)
 - [x] [Trits balanced ternary computing](Medium/trits-balanced-ternary-computing.c) [![](link.png)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing)
 - [x] [Vote counting](Medium/vote-counting.cpp) [![](link.png)](https://www.codingame.com/training/medium/vote-counting)
 - [x] [Ways to make change](Medium/ways-to-make-change.cpp) [![](link.png)](https://www.codingame.com/training/medium/ways-to-make-change)
