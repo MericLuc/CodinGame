@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(187 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(188 puzzles)
 
 </summary>
 
@@ -38,6 +38,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [A child's play](Easy/a-childs-play.c) [![](link.png)](https://www.codingame.com/training/easy/a-childs-play)
 - [x] [A mountain of a mole hill](Easy/a-mountain-of-a-mole-hill.py) [![](link.png)](https://www.codingame.com/training/easy/a-mountain-of-a-mole-hill)
 - [x] [Add'em up](Easy/addem-up.py) [![](link.png)](https://www.codingame.com/training/easy/addem-up)
+- [x] [Agent X, mission 1 - The caesar cipher](Easy/agent-x-mission-1-the-caesar-cipher.cpp) [![](link.png)](https://www.codingame.com/training/easy/agent-x-mission-1-the-caesar-cipher)
 - [x] [Annihilation](Easy/annihilation.cpp) [![](link.png)](https://www.codingame.com/training/easy/annihilation)
 - [x] [Are the clumps normal](Easy/are-the-clumps-normal.cpp) [![](link.png)](https://www.codingame.com/training/easy/are-the-clumps-normal)
 - [x] [Artificial emotional intelligence](Easy/artificial-emotional-intelligence.cs) [![](link.png)](https://www.codingame.com/training/easy/artificial-emotional-intelligence)
