@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(188 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(189 puzzles)
 
 </summary>
 
@@ -47,6 +47,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Auto pickup](Easy/auto-pickup.cpp) [![](link.png)](https://www.codingame.com/training/easy/auto-pickup)
 - [x] [Balanced ternary computer encode](Easy/balanced-ternary-computer-encode.c) [![](link.png)](https://www.codingame.com/training/easy/balanced-ternary-computer-encode)
 - [x] [Bank robbers](Easy/bank-robbers.js) [![](link.png)](https://www.codingame.com/training/easy/bank-robbers)
+- [x] [Battle of Heroes](Easy/battle-of-heroes.cpp) [![](link.png)](https://www.codingame.com/training/easy/battle-of-heroes)
 - [x] [Benford's law](Easy/benfords-law.cpp) [![](link.png)](https://www.codingame.com/training/easy/benfords-law)
 - [x] [Binary image](Easy/binary-image.py) [![](link.png)](https://www.codingame.com/training/easy/binary-image)
 - [x] [Blackjack-solver.py](Easy/blackjack-solver.py) [![](link.png)](https://www.codingame.com/training/easy/blackjack-solver)
