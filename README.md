@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(189 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(190 puzzles)
 
 </summary>
 
@@ -192,6 +192,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [The dart 101](Easy/the-dart-101.c) [![](link.png)](https://www.codingame.com/training/easy/the-dart-101)
 - [x] [The descent](Easy/the-descent.js) [![](link.png)](https://www.codingame.com/training/easy/the-descent)
 - [x] [The electrician apprentice](Easy/the-electrician-apprentice.cs) [![](link.png)](https://www.codingame.com/training/easy/the-electrician-apprentice)
+- [x] [The helpdesk](Easy/the-helpdesk.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-helpdesk)
 - [x] [The lost child episode-1](Easy/the-lost-child-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-lost-child-episode-1)
 - [x] [The Michelangelo code](Easy/the-michelangelo-code.py) [![](link.png)](https://www.codingame.com/training/easy/the-michelangelo-code)
 - [x] [The Mystic rectangle](Easy/the-mystic-rectangle.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-mystic-rectangle)
