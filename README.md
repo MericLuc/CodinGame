@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(190 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(191 puzzles)
 
 </summary>
 
@@ -112,6 +112,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Insert to string](Easy/insert-to-string.cpp) [![](link.png)](https://www.codingame.com/training/easy/insert-to-string)
 - [x] [Ipv6 shortener](Easy/ipv6-shortener.py) [![](link.png)](https://www.codingame.com/training/easy/ipv6-shortener)
 - [x] [Is that a possible word? Ep1](Easy/is-that-a-possible-word-ep1.cpp) [![](link.png)](https://www.codingame.com/training/easy/is-that-a-possible-word-ep1)
+- [x] [Island escape](Easy/island-escape.cpp) [![](link.png)](https://www.codingame.com/training/easy/island-escape)
 - [x] [ISBN check digit](Easy/isbn-check-digit.c) [![](link.png)](https://www.codingame.com/training/easy/isbn-check-digit)
 - [x] [Jack Silver: The Casino](Easy/jack-silver-the-casino.c) [![](link.png)](https://www.codingame.com/training/easy/jack-silver-the-casino)
 - [x] [Kangaroo words](Easy/kangaroo-words.cpp) [![](link.png)](https://www.codingame.com/training/easy/kangaroo-words)
