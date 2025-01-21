@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(191 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(192 puzzles)
 
 </summary>
 
@@ -130,6 +130,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Messed up mosaics](Easy/messed-up-mosaics.cpp) [![](link.png)](https://www.codingame.com/training/easy/messed-up-mosaics)
 - [x] [MIME type](Easy/mime-type.py) [![](link.png)](https://www.codingame.com/training/easy/mime-type)
 - [x] [Minimal palindrome distance](Easy/minimal-palindrome-distance.cpp) [![](link.png)](https://www.codingame.com/training/easy/minimal-palindrome-distance)
+- [x] [Mirrors](Easy/mirrors.cpp) [![](link.png)](https://www.codingame.com/training/easy/mirrors)
 - [x] [Reverse Minesweeper](Easy/reverse-minesweeper.cpp) [![](link.png)](https://www.codingame.com/training/easy/reverse-minesweeper)
 - [x] [Merlin's magic square](Easy/merlins-magic-square.cpp) [![](link.png)](https://www.codingame.com/training/easy/merlins-magic-square)
 - [x] [Metric Units](Easy/metric-units.cs) [![](link.png)](https://www.codingame.com/training/easy/metric-units)
