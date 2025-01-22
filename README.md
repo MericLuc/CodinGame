@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(194 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(195 puzzles)
 
 </summary>
 
@@ -170,6 +170,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Rooks movements](Easy/rooks-movements.c) [![](link.png)](https://www.codingame.com/training/easy/rooks-movements)
 - [x] [Rotating arrows](Easy/rotating-arrows.cpp) [![](link.png)](https://www.codingame.com/training/easy/rotating-arrows)
 - [x] [Rugby score](Easy/rugby-score.c) [![](link.png)](https://www.codingame.com/training/easy/rugby-score)
+- [x] [Sand fall](Easy/sand-fall.rs) [![](link.png)](https://www.codingame.com/training/easy/sand-fall)
 - [x] [Saving snoopy](Easy/saving-snoopy.cpp) [![](link.png)](https://www.codingame.com/training/easy/saving-snoopy)
 - [x] [Self driving car testing](Easy/self-driving-car-testing.c) [![](link.png)](https://www.codingame.com/training/easy/self-driving-car-testing)
 - [x] [Shadow casting](Easy/shadow-casting.cpp) [![](link.png)](https://www.codingame.com/training/easy/shadow-casting)
