@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(196 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(197 puzzles)
 
 </summary>
 
@@ -94,6 +94,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Fax machine](Easy/fax-machine.cpp) [![](link.png)](https://www.codingame.com/training/easy/fax-machine)
 - [x] [Feature extraction](Easy/feature-extraction.cpp) [![](link.png)](https://www.codingame.com/training/easy/feature-extraction)
 - [x] [FireControl](Easy/firecontrol.cpp) [![](link.png)](https://www.codingame.com/training/easy/firecontrol)
+- [x] [Fix the networks](Easy/fix-the-networks.rs) [![](link.png)](https://www.codingame.com/training/easy/fix-the-networks)
 - [x] [Flip the sign](Easy/flip-the-sign.cpp) [![](link.png)](https://www.codingame.com/training/easy/flip-the-sign)
 - [x] [Frame the picture](Easy/frame-the-picture.cpp) [![](link.png)](https://www.codingame.com/training/easy/frame-the-picture)
 - [x] [GDQ - binary coded decimal clock](Easy/gdq---binary-coded-decimal-clock.cpp) [![](link.png)](https://www.codingame.com/training/easy/gdq---binary-coded-decimal-clock)
