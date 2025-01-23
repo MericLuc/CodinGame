@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(195 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(196 puzzles)
 
 </summary>
 
@@ -145,6 +145,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Nature of quadrilaterals](Easy/nature-of-quadrilaterals.c) [![](link.png)](https://www.codingame.com/training/easy/nature-of-quadrilaterals)
 - [x] [Next growing number](Easy/next-growing-number.cpp) [![](link.png)](https://www.codingame.com/training/easy/next-growing-number)
 - [x] [Number derivation](Easy/number-derivation.py) [![](link.png)](https://www.codingame.com/training/easy/number-derivation)
+- [x] [Number of digits](Easy/number-of-digits.rs) [![](link.png)](https://www.codingame.com/training/easy/number-of-digits)
 - [x] [Number partition](Easy/number-partition.cpp) [![](link.png)](https://www.codingame.com/training/easy/number-partition)
 - [x] [Object insertion](Easy/object-insertion.cpp) [![](link.png)](https://www.codingame.com/training/easy/object-insertion)
 - [x] [Odd quad out](Easy/odd-quad-out.cpp) [![](link.png)](https://www.codingame.com/training/easy/odd-quad-out)
