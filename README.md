@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(197 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(198 puzzles)
 
 </summary>
 
@@ -61,6 +61,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Card counting when easily distracted](Easy/card-counting-when-easily-distracted.cpp) [![](link.png)](https://www.codingame.com/training/easy/card-counting-when-easily-distracted)
 - [x] [Catching up](Easy/catching-up.cpp) [![](link.png)](https://www.codingame.com/training/easy/catching-up)
 - [x] [Character replacement problem](Easy/character-replacement-problem.cpp) [![](link.png)](https://www.codingame.com/training/easy/character-replacement-problem)
+- [x] [Cheap choices](Easy/cheap-choices.rs) [![](link.png)](https://www.codingame.com/training/easy/cheap-choices)
 - [x] [Chuck Norris](Easy/chuck-norris.cpp) [![](link.png)](https://www.codingame.com/training/easy/chuck-norris)
 - [x] [Code breaker puzzle](Easy/code-breaker-puzzle.py) [![](link.png)](https://www.codingame.com/training/easy/code-breaker-puzzle)
 - [x] [Container terminal](Easy/container-terminal.cpp) [![](link.png)](https://www.codingame.com/training/easy/container-terminal)
