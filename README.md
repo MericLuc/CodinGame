@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(198 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(199 puzzles)
 
 </summary>
 
@@ -155,6 +155,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Onboarding](Easy/onboarding.cpp) [![](link.png)](https://www.codingame.com/training/easy/onboarding)
 - [x] [Order of succession](Easy/order-of-succession.py) [![](link.png)](https://www.codingame.com/training/easy/order-of-succession)
 - [x] [Organic compounds](Easy/organic-compounds.java) [![](link.png)](https://www.codingame.com/training/easy/organic-compounds)
+- [x] [Panel count](Easy/panel-count.rs) [![](link.png)](https://www.codingame.com/training/easy/panel-count)
 - [x] [Periodic table spelling](Easy/periodic-table-spelling.rs) [![](link.png)](https://www.codingame.com/ide/puzzle/periodic-table-spelling)
 - [x] [Pirates treasure](Easy/pirates-treasure.c) [![](link.png)](https://www.codingame.com/training/easy/pirates-treasure)
 - [x] [Power of Thor (ep.1)](Easy/power-of-thor-1.js) [![](link.png)](https://www.codingame.com/training/easy/power-of-thor-episode-1)
