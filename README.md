@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(201 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(202 puzzles)
 
 </summary>
 
@@ -177,6 +177,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Rugby score](Easy/rugby-score.c) [![](link.png)](https://www.codingame.com/training/easy/rugby-score)
 - [x] [Sand fall](Easy/sand-fall.rs) [![](link.png)](https://www.codingame.com/training/easy/sand-fall)
 - [x] [Saving snoopy](Easy/saving-snoopy.cpp) [![](link.png)](https://www.codingame.com/training/easy/saving-snoopy)
+- [x] [Scrabble score](Easy/scrabble-score.rs) [![](link.png)](https://www.codingame.com/training/easy/scrabble-score)
 - [x] [Self driving car testing](Easy/self-driving-car-testing.c) [![](link.png)](https://www.codingame.com/training/easy/self-driving-car-testing)
 - [x] [Shadow casting](Easy/shadow-casting.cpp) [![](link.png)](https://www.codingame.com/training/easy/shadow-casting)
 - [x] [Shoot enemy aircraft](Easy/shoot-enemy-aircraft.cpp) [![](link.png)](https://www.codingame.com/training/easy/shoot-enemy-aircraft)
