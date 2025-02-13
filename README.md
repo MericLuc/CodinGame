@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(202 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(203 puzzles)
 
 </summary>
 
@@ -207,6 +207,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [The lost child episode-1](Easy/the-lost-child-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-lost-child-episode-1)
 - [x] [The Michelangelo code](Easy/the-michelangelo-code.py) [![](link.png)](https://www.codingame.com/training/easy/the-michelangelo-code)
 - [x] [The Mystic rectangle](Easy/the-mystic-rectangle.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-mystic-rectangle)
+- [x] [The Prime Twins - Part one](Easy/the-prime-twins---part-one.rs) [![](link.png)](https://www.codingame.com/training/easy/the-prime-twins---part-one)
 - [x] [The River I.](Easy/the-river-i.c) [![](link.png)](https://www.codingame.com/training/easy/the-river-i-)
 - [x] [The River II.](Easy/the-river-ii.c) [![](link.png)](https://www.codingame.com/training/easy/the-river-ii-)
 - [x] [The travelling salesman problem](Easy/the-travelling-salesman-problem.c) [![](link.png)](https://www.codingame.com/training/easy/the-travelling-salesman-problem)
