@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(205 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(206 puzzles)
 
 </summary>
 
@@ -78,6 +78,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Darts](Easy/darts.cpp) [![](link.png)](https://www.codingame.com/training/easy/darts)
 - [x] [Darts checkout routes](Easy/darts-checkout-routes.rs) [![](link.png)](https://www.codingame.com/training/easy/darts-checkout-routes)
 - [x] [Dead mens shot](Easy/dead-mens-shot.c) [![](link.png)](https://www.codingame.com/training/easy/dead-mens-shot)
+- [x] [Detective Geek](Easy/detective-geek.rs) [![](link.png)](https://www.codingame.com/training/easy/detective-geek)
 - [x] [Decode the message](Easy/decode-the-message.cpp) [![](link.png)](https://www.codingame.com/training/easy/decode-the-message)
 - [x] [Defibrillators](Easy/defibrillators.cpp) [![](link.png)](https://www.codingame.com/training/easy/defibrillators)
 - [x] [Detective Pikaptcha EP1](Easy/detective-pikaptcha-ep1.c) [![](link.png)](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)
