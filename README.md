@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;- 206 puzzles
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;- 207 puzzles
 
 </summary>
 
@@ -153,6 +153,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | [C](Easy/nature-of-quadrilaterals.c) |
 | [Next growing number](https://www.codingame.com/training/easy/next-growing-number) | [C++](Easy/next-growing-number.cpp) |
 | [Number derivation](https://www.codingame.com/training/easy/number-derivation) | [Python](Easy/number-derivation.py) |
+| [Number formatting](https://www.codingame.com/training/easy/number-formatting) | [Rust](Easy/number-formatting.rs) |
 | [Number of digits](https://www.codingame.com/training/easy/number-of-digits) | [Rust](Easy/number-of-digits.rs) |
 | [Number partition](https://www.codingame.com/training/easy/number-partition) | [C++](Easy/number-partition.cpp) |
 | [Object insertion](https://www.codingame.com/training/easy/object-insertion) | [C++](Easy/object-insertion.cpp) |
