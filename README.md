@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;- 207 puzzles
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;- 208 puzzles
 
 </summary>
 
@@ -210,6 +210,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [The descent](https://www.codingame.com/training/easy/the-descent) | [JavaScript](Easy/the-descent.js) |
 | [The electrician apprentice](https://www.codingame.com/training/easy/the-electrician-apprentice) | [C#](Easy/the-electrician-apprentice.cs) |
 | [The helpdesk](https://www.codingame.com/training/easy/the-helpdesk) | [C++](Easy/the-helpdesk.cpp) |
+| [The leaking bathtub](https://www.codingame.com/training/easy/the-leaking-bathtub) | [Rust](Easy/the-leaking-bathtub.rs) |
 | [The lost child episode-1](https://www.codingame.com/training/easy/the-lost-child-episode-1) | [C++](Easy/the-lost-child-episode-1.cpp) |
 | [The Michelangelo code](https://www.codingame.com/training/easy/the-michelangelo-code) | [Python](Easy/the-michelangelo-code.py) |
 | [The Mystic rectangle](https://www.codingame.com/training/easy/the-mystic-rectangle) | [C++](Easy/the-mystic-rectangle.cpp) |
