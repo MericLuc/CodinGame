@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(204 puzzles)
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;(205 puzzles)
 
 </summary>
 
@@ -45,6 +45,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [ASCII art](Easy/ascii-art.cpp) [![](link.png)](https://www.codingame.com/training/easy/ascii-art)
 - [x] [Asteroids](Easy/asteroids.cpp) [![](link.png)](https://www.codingame.com/training/easy/asteroids)
 - [x] [Auto pickup](Easy/auto-pickup.cpp) [![](link.png)](https://www.codingame.com/training/easy/auto-pickup)
+- [x] [Azimut](Easy/azimut.rs) [![](link.png)](https://www.codingame.com/training/easy/azimut)
 - [x] [Balanced ternary computer encode](Easy/balanced-ternary-computer-encode.c) [![](link.png)](https://www.codingame.com/training/easy/balanced-ternary-computer-encode)
 - [x] [Bank robbers](Easy/bank-robbers.js) [![](link.png)](https://www.codingame.com/training/easy/bank-robbers)
 - [x] [Battle of Heroes](Easy/battle-of-heroes.cpp) [![](link.png)](https://www.codingame.com/training/easy/battle-of-heroes)
