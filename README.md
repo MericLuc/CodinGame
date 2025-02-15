@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 211 puzzles
+## Easy - 212 puzzles
 
 </summary>
 
@@ -216,6 +216,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [The lost child episode-1](https://www.codingame.com/training/easy/the-lost-child-episode-1) | [C++](Easy/the-lost-child-episode-1.cpp) |
 | [The Michelangelo code](https://www.codingame.com/training/easy/the-michelangelo-code) | [Python](Easy/the-michelangelo-code.py) |
 | [The Mystic rectangle](https://www.codingame.com/training/easy/the-mystic-rectangle) | [C++](Easy/the-mystic-rectangle.cpp) |
+| [The other side](https://www.codingame.com/training/easy/the-other-side) | [Rust](Easy/the-other-side.rs) |
 | [The Prime Twins - Part one](https://www.codingame.com/training/easy/the-prime-twins---part-one) | [Rust](Easy/the-prime-twins---part-one.rs) |
 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | [C](Easy/the-river-i.c) |
 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | [C](Easy/the-river-ii.c) |
