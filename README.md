@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy &ensp;&ensp;&ensp;&ensp;&ensp;- 208 puzzles
+## Easy &ensp;&ensp;&ensp;&ensp;&ensp;- 209 puzzles
 
 </summary>
 
@@ -100,6 +100,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Faro shuffle](https://www.codingame.com/training/easy/faro-shuffle) | [C++](Easy/faro-shuffle.cpp) |
 | [Fax machine](https://www.codingame.com/training/easy/fax-machine) | [C++](Easy/fax-machine.cpp) |
 | [Feature extraction](https://www.codingame.com/training/easy/feature-extraction) | [C++](Easy/feature-extraction.cpp) |
+| [Fibonacci's Rabbit](https://www.codingame.com/training/easy/fibonaccis-rabbit) | [Rust](Easy/fibonaccis-rabbit.rs) |
 | [FireControl](https://www.codingame.com/training/easy/firecontrol) | [C++](Easy/firecontrol.cpp) |
 | [Fix the networks](https://www.codingame.com/training/easy/fix-the-networks) | [Rust](Easy/fix-the-networks.rs) |
 | [Flip the sign](https://www.codingame.com/training/easy/flip-the-sign) | [C++](Easy/flip-the-sign.cpp) |
