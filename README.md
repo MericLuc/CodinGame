@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 214 puzzles
+## Easy - 215 puzzles
 
 </summary>
 
@@ -127,6 +127,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Kangaroo words](https://www.codingame.com/training/easy/kangaroo-words) | [C++](Easy/kangaroo-words.cpp) |
 | [Kiss the girls](https://www.codingame.com/training/easy/kiss-the-girls) | [C++](Easy/kiss-the-girls.cpp) |
 | [Largest number](https://www.codingame.com/training/easy/largest-number) | [Python](Easy/largest-number.py) |
+| [Library dependencies](https://www.codingame.com/training/easy/library-dependencies) | [Rust](Easy/library-dependencies.rs) |
 | [Logic gates](https://www.codingame.com/training/easy/logic-gates) | [C++](Easy/logic-gates.cpp) |
 | [Logically reasonable inequalities](https://www.codingame.com/training/easy/logically-reasonable-inequalities) | [C++](Easy/logically-reasonable-inequalities.cpp) |
 | [Longest coast](https://www.codingame.com/training/easy/longest-coast) | [C++](Easy/longest-coast.cpp) |
