@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 212 puzzles
+## Easy - 213 puzzles
 
 </summary>
 
@@ -167,6 +167,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Panel count](https://www.codingame.com/training/easy/panel-count) | [Rust](Easy/panel-count.rs) |
 | [Periodic table spelling](https://www.codingame.com/ide/puzzle/periodic-table-spelling) | [Rust](Easy/periodic-table-spelling.rs) |
 | [Pirates treasure](https://www.codingame.com/training/easy/pirates-treasure) | [C](Easy/pirates-treasure.c) |
+| [Playing card odds](https://www.codingame.com/training/easy/playing-card-odds) | [Rust](Easy/playing-card-odds.rs) |
 | [Power of Thor (ep.1)](https://www.codingame.com/training/easy/power-of-thor-episode-1) | [JavaScript](Easy/power-of-thor-1.js) |
 | [Prefix code](https://www.codingame.com/training/easy/prefix-code) | [C++](Easy/prefix-code.cpp) |
 | [Probability for dummies](https://www.codingame.com/training/easy/probability-for-dummies) | [C++](Easy/probability-for-dummies.cpp) |
