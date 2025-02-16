@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 215 puzzles
+## Easy - 216 puzzles
 
 </summary>
 
@@ -41,6 +41,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [A mountain of a mole hill](https://www.codingame.com/training/easy/a-mountain-of-a-mole-hill) | [Python](Easy/a-mountain-of-a-mole-hill.py) |
 | [Add'em up](https://www.codingame.com/training/easy/addem-up) | [Python](Easy/addem-up.py) |
 | [Agent X, mission 1 - The caesar cipher](https://www.codingame.com/training/easy/agent-x-mission-1-the-caesar-cipher) | [C++](Easy/agent-x-mission-1-the-caesar-cipher.cpp) |
+| [An adventure in the fantasy world](https://www.codingame.com/training/easy/an-adventure-in-the-fantasy-world) | [Rust](Easy/an-adventure-in-the-fantasy-world.rs) |
 | [Annihilation](https://www.codingame.com/training/easy/annihilation) | [C++](Easy/annihilation.cpp) |
 | [Are the clumps normal](https://www.codingame.com/training/easy/are-the-clumps-normal) | [C++](Easy/are-the-clumps-normal.cpp) |
 | [Artificial emotional intelligence](https://www.codingame.com/training/easy/artificial-emotional-intelligence) | [C#](Easy/artificial-emotional-intelligence.cs) |
