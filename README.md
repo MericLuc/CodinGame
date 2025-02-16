@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 216 puzzles
+## Easy - 217 puzzles
 
 </summary>
 
@@ -208,6 +208,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | [Python](Easy/sudoku-validator.py) |
 | [Sum of Spiral's Diagonals](https://www.codingame.com/training/easy/sum-of-spirals-diagonals) | [C++](Easy/sum-of-spirals-diagonals.cpp) |
 | [Sweet spot](https://www.codingame.com/training/easy/sweet-spot) | [C++](Easy/sweet-spot.cpp) |
+| [Table of contents](https://www.codingame.com/training/easy/table-of-contents) | [Rust](Easy/table-of-contents.rs) |
 | [Ted's compiler](https://www.codingame.com/training/easy/teds-compiler) | [C++](Easy/teds-compiler.cpp) |
 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | [JavaScript](Easy/temperatures.js) |
 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | [Python](Easy/text-formatting.py) |
