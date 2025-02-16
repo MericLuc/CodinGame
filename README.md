@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 213 puzzles
+## Easy - 214 puzzles
 
 </summary>
 
@@ -201,6 +201,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Snake sort 2D](https://www.codingame.com/training/easy/snake-sort-2d) | [C++](Easy/snake-sort-2d.cpp) |
 | [Someone's acting sus...](https://www.codingame.com/training/easy/someones-acting-sus----) | [Python](Easy/someones-acting-sus----.py) |
 | [Stall tilt](https://www.codingame.com/training/easy/stall-tilt) | [Python](Easy/stall-tilt.py) |
+| [Stunning numbers](https://www.codingame.com/training/easy/stunning-numbers) | [Rust](Easy/stunning-numbers.rs) |
 | [Substitution encoding](https://www.codingame.com/training/easy/substitution-encoding) | [C++](Easy/substitution-encoding.cpp) |
 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | [Python](Easy/sudoku-validator.py) |
 | [Sum of Spiral's Diagonals](https://www.codingame.com/training/easy/sum-of-spirals-diagonals) | [C++](Easy/sum-of-spirals-diagonals.cpp) |
