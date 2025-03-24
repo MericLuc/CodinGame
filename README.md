@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 217 puzzles
+## Easy - 218 puzzles
 
 </summary>
 
@@ -228,6 +228,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [The travelling salesman problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | [C](Easy/the-travelling-salesman-problem.c) |
 | [The weight of words](https://www.codingame.com/training/easy/the-weight-of-words) | [C++](Easy/the-weight-of-words.cpp) |
 | [Tic tac toe](https://www.codingame.com/training/easy/tictactoe) | [Python](Easy/tictactoe.py) |
+| [Timer for clash of code](https://www.codingame.com/training/easy/timer-for-clash-of-code) | [Rust](Easy/timer-for-clash-of-code.rs) |
 | [Treasure hunt](https://www.codingame.com/training/easy/treasure-hunt) | [C++](Easy/treasure-hunt.cpp) |
 | [Tree paths](https://www.codingame.com/training/easy/tree-paths) | [Ruby](Easy/tree-paths.rb) |
 | [Tricky number verifier](https://www.codingame.com/training/easy/tricky-number-verifier) | [Python](Easy/tricky-number-verifier.py) |
