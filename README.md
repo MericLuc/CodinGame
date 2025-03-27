@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 218 puzzles
+## Easy - 219 puzzles
 
 </summary>
 
@@ -238,6 +238,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Vectors in variables dimensions](https://www.codingame.com/training/easy/vectors-in-variables-dimensions) | [Python](Easy/vectors-in-variables-dimensions.py) |
 | [Video comments](https://www.codingame.com/training/easy/video-comments) | [Python](Easy/video-comments.py) |
 | [Walk on a die](https://www.codingame.com/training/easy/walk-on-a-die) | [Rust](Easy/walk-on-a-die.rs) |
+| [What is your garden worth?](https://www.codingame.com/training/easy/what-is-your-garden-worth) | [Rust](Easy/what-is-your-garden-worth.rs) |
 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | [C](Easy/whats-so-complex-about-mandelbrot.c) |
 | [Where am I going?](https://www.codingame.com/training/easy/where-am-i-going) | [Rust](Easy/where-am-i-going.rs) |
 | [Where's Wally](https://www.codingame.com/training/easy/wheres-wally) | [C++](Easy/wheres-wally.cpp) |
