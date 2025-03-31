@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 220 puzzles
+## Easy - 221 puzzles
 
 </summary>
 
@@ -208,6 +208,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Substitution encoding](https://www.codingame.com/training/easy/substitution-encoding) | [C++](Easy/substitution-encoding.cpp) |
 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | [Python](Easy/sudoku-validator.py) |
 | [Sum of Spiral's Diagonals](https://www.codingame.com/training/easy/sum-of-spirals-diagonals) | [C++](Easy/sum-of-spirals-diagonals.cpp) |
+| [Survey prediction](https://www.codingame.com/training/easy/survey-prediction) | [Rust](Easy/survey-prediction.rs) |
 | [Sweet spot](https://www.codingame.com/training/easy/sweet-spot) | [C++](Easy/sweet-spot.cpp) |
 | [Table of contents](https://www.codingame.com/training/easy/table-of-contents) | [Rust](Easy/table-of-contents.rs) |
 | [Ted's compiler](https://www.codingame.com/training/easy/teds-compiler) | [C++](Easy/teds-compiler.cpp) |
