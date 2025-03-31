@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 219 puzzles
+## Easy - 220 puzzles
 
 </summary>
 
@@ -75,6 +75,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Count your coins](https://www.codingame.com/training/easy/count-your-coins) | [C++](Easy/count-your-coins.cpp) |
 | [Crazy list](https://www.codingame.com/training/easy/crazy-list) | [C++](Easy/crazy-list.cpp) |
 | [Create the longest sequence of 1s](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s) | [C](Easy/create-the-longest-sequence-of-1s.c) |
+| [Create turn here signs](https://www.codingame.com/training/easy/create-turn-here-signs) | [Rust](Easy/create-turn-here-signs.rs) |
 | [Credit card verifier](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | [C++](Easy/credit-card-verifier-luhns-algorithm.cpp) |
 | [Crop circles](https://www.codingame.com/ide/puzzle/crop-circles) | [C#](Easy/crop-circles.cs) |
 | [Custom game of life](https://www.codingame.com/ide/puzzle/custom-game-of-life) | [C++](Easy/custom-game-of-life.cpp) |
