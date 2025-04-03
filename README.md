@@ -253,7 +253,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Medium - 124 puzzles
+## Medium - 125 puzzles
 
 </summary>
 
@@ -299,6 +299,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Dynamic sorting](https://www.codingame.com/training/medium/dynamic-sorting) | [C#](Medium/dynamic-sorting.cs) |
 | [Dwarfs standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | [C++](Medium/dwarfs-standing-on-the-shoulders-of-giants.cpp) |
 | [Elementary cellular automaton](https://www.codingame.com/training/medium/elementary-cellular-automaton) | [C](Medium/elementary-cellular-automaton.c) |
+| [Entry code](https://www.codingame.com/training/medium/entry-code) | [Rust](Medium/entry-code.rs) |
 | [Equalizing arrays](https://www.codingame.com/training/medium/equalizing-arrays) | [C++](Medium/equalizing-arrays.cpp) |
 | [Factorial vs exponential](https://www.codingame.com/training/medium/factorial-vs-exponential) | [C](Medium/factorial-vs-exponential.c) |
 | [Fair numbering](https://www.codingame.com/training/medium/fair-numbering) | [C++](Medium/fair-numbering.cpp) |
