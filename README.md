@@ -253,7 +253,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Medium - 125 puzzles
+## Medium - 126 puzzles
 
 </summary>
 
@@ -367,6 +367,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Sum of divisors](https://www.codingame.com/training/medium/sum-of-divisors) | [C](Medium/sum-of-divisors.c) |
 | [Telephone numbers](https://www.codingame.com/training/medium/telephone-numbers) | [C++](Medium/telephone-numbers.cpp) |
 | [Text alignment](https://www.codingame.com/training/medium/text-alignment) | [C](Medium/text-alignment.c) |
+| [The cash register](https://www.codingame.com/training/medium/the-cash-register) | [Rust](Medium/the-cash-register.rs) |
 | [The experience of creating puzzles](https://www.codingame.com/training/medium/the-experience-for-creating-puzzles) | [C](Medium/the-experience-for-creating-puzzles.c) |
 | [The fastest](https://www.codingame.com/training/medium/the-fastest) | [C](Medium/the-fastest.c) |
 | [The urinal problem](https://www.codingame.com/training/medium/the-urinal-problem) | [Python](Medium/the-urinal-problem.py) |
