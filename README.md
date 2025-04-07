@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 223 puzzles
+## Easy - 224 puzzles
 
 </summary>
 
@@ -74,6 +74,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Cosmic Love](https://www.codingame.com/training/easy/cosmic-love) | [C++](Easy/cosmic-love.cpp) |
 | [Count as I count](https://www.codingame.com/training/easy/count-as-i-count) | [C++](Easy/count-as-i-count.cpp) |
 | [Count your coins](https://www.codingame.com/training/easy/count-your-coins) | [C++](Easy/count-your-coins.cpp) |
+| [Crack the trio code](https://www.codingame.com/training/easy/crack-the-trio-code) | [Rust](Easy/crack-the-trio-code.rs) |
 | [Crazy list](https://www.codingame.com/training/easy/crazy-list) | [C++](Easy/crazy-list.cpp) |
 | [Create the longest sequence of 1s](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s) | [C](Easy/create-the-longest-sequence-of-1s.c) |
 | [Create turn here signs](https://www.codingame.com/training/easy/create-turn-here-signs) | [Rust](Easy/create-turn-here-signs.rs) |
