@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 224 puzzles
+## Easy - 225 puzzles
 
 </summary>
 
@@ -58,6 +58,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Binary image](https://www.codingame.com/training/easy/binary-image) | [Python](Easy/binary-image.py) |
 | [Blackjack-solver.py](https://www.codingame.com/training/easy/blackjack-solver) | [Python](Easy/blackjack-solver.py) |
 | [Blowing fuse](https://www.codingame.com/training/easy/blowing-fuse) | [C](Easy/blowing-fuse.c) |
+| [Body weight is a girl's secret](https://www.codingame.com/training/easy/body-weight-is-a-girls-secret) | [Rust](Easy/body-weight-is-a-girls-secret.rs) |
 | [Brackets extreme edition](https://www.codingame.com/training/easy/brackets-extreme-edition) | [C](Easy/brackets-extreme-edition.c) |
 | [Brick in the wall](https://www.codingame.com/training/easy/brick-in-the-wall) | [C](Easy/brick-in-the-wall.c) |
 | [Bulk email generator](https://www.codingame.com/training/easy/bulk-email-generator) | [Python](Easy/bulk-email-generator.py) |
