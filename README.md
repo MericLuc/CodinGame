@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 225 puzzles
+## Easy - 226 puzzles
 
 </summary>
 
@@ -98,6 +98,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Dolbear's law](https://www.codingame.com/training/easy/dolbears-law) | [C++](Easy/dolbears-law.cpp) |
 | [Dungeons and maps](https://www.codingame.com/training/easy/dungeons-and-maps) | [C++](Easy/dungeons-and-maps.cpp) |
 | [Duo combinations](https://www.codingame.com/training/easy/duo-combinations) | [Rust](Easy/duo-combinations.rs) |
+| [Egyptian multiplication](https://www.codingame.com/training/easy/egyptian-multiplication) | [Rust](Easy/egyptian-multiplication.rs) |
 | [Embedded chessboards](https://www.codingame.com/training/easy/embedded-chessboards) | [C++](Easy/embedded-chessboards.cpp) |
 | [Encryption decryption of enigma machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | [C](Easy/encryptiondecryption-of-enigma-machine.c) |
 | [Equivalent resistance circuit building](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building) | [Java](Easy/equivalent-resistance-circuit-building.java) |
