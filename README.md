@@ -258,7 +258,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Medium - 127 puzzles
+## Medium - 128 puzzles
 
 </summary>
 
@@ -362,6 +362,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Reversed look and say](https://www.codingame.com/training/medium/reversed-look-and-say) | [C++](Medium/reversed-look-and-say.cpp) |
 | [Robbery optimisation](https://www.codingame.com/training/medium/robbery-optimisation) | [C++](Medium/robbery-optimisation.cpp) |
 | [Rod cutting problem](https://www.codingame.com/training/medium/rod-cutting-problem) | [C++](Medium/rod-cutting-problem.cpp) |
+| [Roman sorting](https://www.codingame.com/training/medium/roman-sorting) | [Rust](Medium/roman-sorting.rs) |
 | [Sandpile addition](https://www.codingame.com/training/medium/sandpile-addition) | [C](Medium/sandpile-addition.c) |
 | [Scrabble](https://www.codingame.com/training/medium/scrabble) | [C++](Medium/scrabble.cpp) |
 | [Seam carving](https://www.codingame.com/training/medium/seam-carving) | [C++](Medium/seam-carving.cpp) |
