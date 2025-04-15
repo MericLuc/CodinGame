@@ -258,13 +258,14 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Medium - 126 puzzles
+## Medium - 127 puzzles
 
 </summary>
 
 | Puzzle     | Solution  |
 |  --------  |  -------  |
 | [1010(1)](https://www.codingame.com/training/medium/10101) | [C](Medium/10101.c) |
+| [16x16 Sudoku](https://www.codingame.com/training/medium/16x16-sudoku) | [Rust](Medium/16x16-sudoku.rs) |
 | [A* exercise](https://www.codingame.com/training/medium/a-star-exercise) | [C++](Medium/a-star-exercise.cpp) |
 | [Ancestors and descendants](https://www.codingame.com/training/medium/ancestors-&-descendants) | [C++](Medium/ancestors-&-descendants.cpp) |
 | [Aneo sponsored puzzle](https://www.codingame.com/training/medium/aneo) | [C](Medium/aneo.c) |
