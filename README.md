@@ -258,7 +258,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Medium - 128 puzzles
+## Medium - 129 puzzles
 
 </summary>
 
@@ -343,6 +343,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [MineSweeper](https://www.codingame.com/training/medium/minesweeper) | [C++](Medium/minesweeper.cpp) |
 | [Minimax exercise](https://www.codingame.com/training/medium/minimax-exercise) | [C](Medium/minimax-exercise.c) |
 | [Monthly system](https://www.codingame.com/training/medium/monthly-system) | [C](Medium/monthly-system.c) |
+| [Mosaic](https://www.codingame.com/training/medium/mosaic) | [Rust](Medium/mosaic.rs) |
 | [Network cabling](https://www.codingame.com/training/medium/network-cabling) | [C++](Medium/network-cabling.cpp) |
 | [Number of letters in a number - binary](https://www.codingame.com/training/medium/number-of-letters-in-a-number---binary) | [C++](Medium/number-of-letters-in-a-number---binary.cpp) |
 | [Number of paths between 2 points](https://www.codingame.com/training/medium/number-of-paths-between-2-points) | [C](Medium/number-of-paths-between-2-points.c) |
