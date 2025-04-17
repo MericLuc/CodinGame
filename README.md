@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 226 puzzles
+## Easy - 227 puzzles
 
 </summary>
 
@@ -238,6 +238,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Timer for clash of code](https://www.codingame.com/training/easy/timer-for-clash-of-code) | [Rust](Easy/timer-for-clash-of-code.rs) |
 | [Treasure hunt](https://www.codingame.com/training/easy/treasure-hunt) | [C++](Easy/treasure-hunt.cpp) |
 | [Tree paths](https://www.codingame.com/training/easy/tree-paths) | [Ruby](Easy/tree-paths.rb) |
+| [Triangle toggle](https://www.codingame.com/training/easy/triangle-toggle) | [Rust](Easy/triangle-toggle.rs) |
 | [Tricky number verifier](https://www.codingame.com/training/easy/tricky-number-verifier) | [Python](Easy/tricky-number-verifier.py) |
 | [Ulam spiral](https://www.codingame.com/training/easy/ulam-spiral) | [Python](Easy/ulam-spiral.py) |
 | [Unit fractions](https://www.codingame.com/training/easy/unit-fractions) | [C](Easy/unit-fractions.c) |
