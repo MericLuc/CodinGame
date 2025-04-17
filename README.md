@@ -258,7 +258,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Medium - 129 puzzles
+## Medium - 130 puzzles
 
 </summary>
 
@@ -327,6 +327,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Huffman code](https://www.codingame.com/training/medium/huffman-code) | [C++](Medium/huffman-code.cpp) |
 | [Inversion count](https://www.codingame.com/training/medium/inversion-count) | [C#](Medium/inversion-count.cs) |
 | [IP mask calculating](https://www.codingame.com/training/medium/ip-mask-calculating) | [C++](Medium/ip-mask-calculating.cpp) |
+| [Join the dots](https://www.codingame.com/training/medium/join-the-dots) | [Rust](Medium/join-the-dots.rs) |
 | [Jumping frogs](https://www.codingame.com/training/medium/jumping-frogs) | [C++](Medium/jumping-frogs.cpp) |
 | [Kaprekar's routine](https://www.codingame.com/training/medium/kaprekars-routine) | [JavaScript](Medium/kaprekars-routine.js) |
 | [Knight's jam](https://www.codingame.com/training/medium/knights-jam) | [C++](Medium/knights-jam.cpp) |
