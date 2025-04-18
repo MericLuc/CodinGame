@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 227 puzzles
+## Easy - 228 puzzles
 
 </summary>
 
@@ -250,6 +250,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | [C](Easy/whats-so-complex-about-mandelbrot.c) |
 | [Where am I going?](https://www.codingame.com/training/easy/where-am-i-going) | [Rust](Easy/where-am-i-going.rs) |
 | [Where's Wally](https://www.codingame.com/training/easy/wheres-wally) | [C++](Easy/wheres-wally.cpp) |
+| [Word search for programmers](https://www.codingame.com/training/easy/word-search-for-programmers) | [Rust](Easy/word-search-for-programmers.rs) |
 | [Wordle collorizer](https://www.codingame.com/training/easy/wordle-colorizer) | [C++](Easy/wordle-colorizer.cpp) |
 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016) | [C++](Easy/xml-mdf-2016.cpp) |
 | [Zeckendorf representation part I](https://www.codingame.com/training/easy/zeckendorf-representation-part-i) | [C++](Easy/zeckendorf-representation-part-i.cpp) |
