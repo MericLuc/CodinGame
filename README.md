@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 228 puzzles
+## Easy - 229 puzzles
 
 </summary>
 
@@ -140,6 +140,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Longest coast](https://www.codingame.com/training/easy/longest-coast) | [C++](Easy/longest-coast.cpp) |
 | [Low Resolution: what's the shape?](https://www.codingame.com/training/easy/low-resolution-whats-the-shape) | [C++](Easy/low-resolution-whats-the-shape.cpp) |
 | [Lumen](https://www.codingame.com/training/easy/lumen) | [C](Easy/lumen.c) |
+| [Magic string](https://www.codingame.com/training/easy/magic-string) | [Rust](Easy/magic-string.rs) |
 | [Mandelbrot set approximation](https://www.codingame.com/training/easy/mandelbrot-set-approximation) | [Rust](Easy/mandelbrot-set-approximation.rs) |
 | [Mars lander episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | [Python](Easy/mars-lander-episode-1.py) |
 | [Match DNA sequence](https://www.codingame.com/training/easy/match-dna-sequence) | [Rust](Easy/match-dna-sequence.rs) |
