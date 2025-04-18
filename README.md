@@ -21,7 +21,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 <details>
 <summary>
 
-## Easy - 229 puzzles
+## Easy - 230 puzzles
 
 </summary>
 
@@ -46,6 +46,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 | [Are the clumps normal](https://www.codingame.com/training/easy/are-the-clumps-normal) | [C++](Easy/are-the-clumps-normal.cpp) |
 | [Artificial emotional intelligence](https://www.codingame.com/training/easy/artificial-emotional-intelligence) | [C#](Easy/artificial-emotional-intelligence.cs) |
 | [ASCII art](https://www.codingame.com/training/easy/ascii-art) | [C++](Easy/ascii-art.cpp) |
+| [ASCII art: The drunken bishop algorithm](https://www.codingame.com/training/easy/ascii-art-the-drunken-bishop-algorithm) | [Rust](Easy/ascii-art-the-drunken-bishop-algorithm.rs) |
 | [ASCII worms](https://www.codingame.com/training/easy/ascii-worms) | [Rust](Easy/ascii-worms.rs) |
 | [Asteroids](https://www.codingame.com/training/easy/asteroids) | [C++](Easy/asteroids.cpp) |
 | [Auto pickup](https://www.codingame.com/training/easy/auto-pickup) | [C++](Easy/auto-pickup.cpp) |
